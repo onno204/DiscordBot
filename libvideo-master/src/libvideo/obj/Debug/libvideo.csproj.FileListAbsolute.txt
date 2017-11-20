@@ -1,0 +1,6 @@
+A:\Projects\VisualStudio\Discord\DiscordBot\libvideo-master\src\libvideo\bin\Debug\libvideo.dll
+A:\Projects\VisualStudio\Discord\DiscordBot\libvideo-master\src\libvideo\bin\Debug\libvideo.pdb
+A:\Projects\VisualStudio\Discord\DiscordBot\libvideo-master\src\libvideo\obj\Debug\libvideo.csprojResolveAssemblyReference.cache
+A:\Projects\VisualStudio\Discord\DiscordBot\libvideo-master\src\libvideo\obj\Debug\libvideo.csproj.CoreCompileInputs.cache
+A:\Projects\VisualStudio\Discord\DiscordBot\libvideo-master\src\libvideo\obj\Debug\libvideo.dll
+A:\Projects\VisualStudio\Discord\DiscordBot\libvideo-master\src\libvideo\obj\Debug\libvideo.pdb
