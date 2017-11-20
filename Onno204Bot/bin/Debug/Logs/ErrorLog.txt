@@ -1,0 +1,176 @@
+18-nov-2017 05:53:53 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__15.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 191
+The connection is not initialized
+18-nov-2017 06:00:37 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__15.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 191
+The connection is not initialized
+18-nov-2017 07:00:39 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__13.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 241
+Unauthorized: 403
+18-nov-2017 07:00:51 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__13.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 241
+Unauthorized: 403
+18-nov-2017 07:01:10 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+18-nov-2017 07:01:12 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+18-nov-2017 07:01:15 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+18-nov-2017 07:01:30 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__13.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 241
+Unauthorized: 403
+18-nov-2017 07:04:07 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__13.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 241
+Unauthorized: 403
+18-nov-2017 07:04:14 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__13.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 241
+Not found: 404
+18-nov-2017 07:04:23 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__13.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 241
+Unauthorized: 403
+18-nov-2017 07:06:39 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__18.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 202
+The connection is not initialized
+18-nov-2017 07:06:52 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__13.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 243
+Unauthorized: 403
+18-nov-2017 07:06:56 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__13.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 243
+Unauthorized: 403
+18-nov-2017 07:09:51 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__13.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 243
+Unauthorized: 403
+18-nov-2017 07:10:35 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__13.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 243
+Unauthorized: 403
+18-nov-2017 07:10:35 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__18.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 202
+The connection is not initialized
+18-nov-2017 07:52:39 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__18.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 203
+The connection is not initialized
+18-nov-2017 07:58:15 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__20.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 207
+The connection is not initialized
+18-nov-2017 07:58:23 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__20.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 207
+The connection is not initialized
+18-nov-2017 07:58:36 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__20.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 207
+The connection is not initialized
+18-nov-2017 07:58:55 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__20.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 207
+The connection is not initialized
+18-nov-2017 09:39:03 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__14.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 250
+Unauthorized: 403
+18-nov-2017 09:39:22 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__14.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 250
+Unauthorized: 403
+18-nov-2017 09:43:24 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__14.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 250
+Unauthorized: 403
