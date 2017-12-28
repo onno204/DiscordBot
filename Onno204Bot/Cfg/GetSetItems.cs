@@ -15,7 +15,5 @@ namespace Onno204Bot.Cfg
         public static ulong RUVoiceID = 0;
         public static ulong RUTextID = 0;
 
-
-
     }
 }

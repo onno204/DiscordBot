@@ -150,6 +150,8 @@ namespace Onno204Bot.Events
                 {
                     await DiscordUtils.SendBotMessage(Messages.AudioDownloading, duser);
                     string filenameNoMP3 = @Config.VideoDir+ Utils.RemoveSpecialCharacters(vid.FullName) + ".Temp";
+                    Utils.Debug("Vid UrL: " + YoutubeURL);
+                    Utils.Debug("Vid Uri: " + await vid.GetUriAsync());
                     File.WriteAllBytes(filenameNoMP3, vid.GetBytes());
                     var inputFile = new MediaFile { Filename = filenameNoMP3 };
                     var outputFile = new MediaFile { Filename = filename };

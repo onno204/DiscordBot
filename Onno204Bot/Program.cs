@@ -7,9 +7,9 @@ using DSharpPlus.VoiceNext.Codec;
 using Onno204Bot.Events;
 using Onno204Bot.Lib;
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
+using System.Net;
+using System.Net.Security;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
@@ -17,125 +17,103 @@ using System.Threading.Tasks;
 
 namespace Onno204Bot
 {
-    class Program
+    internal class Program
     {
-        /// <summary>
-        /// START ERROR PROBALY IN THE CONFIG.CS!!!
-        /// cHANGE THE FILE.READ TO YOUR OWN FILE OR JUST WRITE IT!
-        /// </summary>
-        #region Variables
-        public static DiscordClient discord = null;
-        public static CommandsNextModule commands = null;
-        public static VoiceNextClient Voice = null;
-        public static VoiceNextConnection ConnectedVNC = null;
-        public static DiscordGuild ConnectedDG = null;
-        #endregion
-        static void Main(string[] args)
+        public static DiscordClient discord = (DiscordClient)null;
+        public static CommandsNextModule commands = (CommandsNextModule)null;
+        public static VoiceNextClient Voice = (VoiceNextClient)null;
+        public static VoiceNextConnection ConnectedVNC = (VoiceNextConnection)null;
+        public static DiscordGuild ConnectedDG = (DiscordGuild)null;
+        private const string initVector = "pemgail9uzpgzl88";
+        private const int keysize = 256;
+
+        private static void Main(string[] args)
         {
-            MainAsync(args).ConfigureAwait(false).GetAwaiter().GetResult();
+            ServicePointManager.ServerCertificateValidationCallback = (RemoteCertificateValidationCallback)((_param1, _param2, _param3, _param4) => true);
+            Program.MainAsync(args).ConfigureAwait(false).GetAwaiter().GetResult();
         }
+
         public static async Task MainAsync(string[] args)
         {
-            await Start();
+            await Program.Start();
         }
 
-        
-        #region Client Functions
-
-        //All the Message functions
         public static void SetupEvents()
         {
             Utils.Log("Setting Up...", LogType.Console);
-            discord.MessageDeleted += async e => {
-                try {
-                    if (e.Message.Content.StartsWith(Config.CommandString)) { return; }
-                    String Message = e.Message.Author.Username+"#"+e.Message.Author.Discriminator + ": " + e.Message.Timestamp + ", " + e.Message.Content;
-                    Utils.Log(Message, LogType.DeletedMessages);
-<<<<<<< HEAD
-                    await DiscordUtils.SendBotMessage(Utils.Replace(Utils.Replace(Messages.MessageDeleted, "~2", e.Message.Content), "~1", e.Message.Author.Mention), new DUser(e.Channel.Id, 0, e.Guild.Id, e.Client.CurrentUser.Id));
-=======
-                    await DiscordUtils.SendBotMessage(Utils.Replace(Utils.Replace(Messages.MessageDeleted, "~2", e.Message.Content), "~1", e.Message.Author.Mention), e.Channel);
->>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
-                }
-                catch (Exception ee) {
-                    Utils.Log("Error, " + ee.Message, LogType.Error);
-                }
-            };
-            discord.DmChannelCreated += async e => {
-<<<<<<< HEAD
-                //await DiscordUtils.SendBotMessage(Messages.NewDMCreated, new DUser(e.Channel.Id, 0, e.Client.CurrentUser.Id));
-=======
-                await DiscordUtils.SendBotMessage(Messages.NewDMCreated, e.Channel);
->>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
-            };
-            
-            /*
-            Keep crashing the program without exiting
-                //Task to do when connected/Loggedin
-                discord.SocketOpened += async () => {
-                    await discord.UpdateStatusAsync(new DiscordGame(Messages.PlayingGamesStatus), UserStatus.Online);
-                };
-
-                //Instant reaction on a Mention
-                client.MentionReceived += (sender, e) =>
+            Program.discord.MessageDeleted += (AsyncEventHandler<MessageDeleteEventArgs>)(async e =>
+            {
+                try
                 {
-                    SendBotMessage( Utils.Replace( Utils.Replace(Messages.MentionReply, "~2", e.Message.Content), "~1", MentoinUser(e.Message.Author) ), e.Message.Channel());
-                };
-            */
-
+                    if (e.Message.Content.StartsWith(Config.CommandString))
+                        return;
+                    string Message = e.Message.Author.Username + "#" + e.Message.Author.Discriminator + ": " + (object)e.Message.Timestamp + ", " + e.Message.Content;
+                    Utils.Log(Message, LogType.DeletedMessages);
+                    await DiscordUtils.SendBotMessage(Utils.Replace(Utils.Replace(Messages.MessageDeleted, "~2", e.Message.Content), "~1", e.Message.Author.Mention), new DUser(e.Channel.Id, 0UL, e.Guild.Id, e.Client.CurrentUser.Id, (string)null, (string[])null, (string)null));
+                    Message = (string)null;
+                }
+                catch (Exception ex)
+                {
+                    Utils.Log("Error, " + ex.StackTrace, LogType.Error);
+                }
+            });
+            Program.discord.DmChannelCreated += (AsyncEventHandler<DmChannelCreateEventArgs>)(async e => {
+                await Task.Delay(1);
+            });
             Utils.Log("Done setting.", LogType.Console);
         }
 
-        #endregion
-        
-
-        #region Login & Start & error
         public static async Task Start()
         {
             try
             {
                 Console.WriteLine("Started Login!");
-                await Login();
+                await Program.Login();
             }
-            catch (Exception e)
+            catch (Exception ex)
             {
                 Console.WriteLine("================= ERRORRRR CRASHH ===================");
                 Console.WriteLine("================= ERRORRRR CRASHH ===================");
                 Console.WriteLine("================= ERRORRRR CRASHH ===================");
-                Console.WriteLine(e.Message);
+                Console.WriteLine(Directory.GetFiles(Directory.GetCurrentDirectory()).ToString());
+                Console.WriteLine(ex.Message + "\n" + ex.StackTrace);
                 Console.WriteLine("================= ERRORRRR CRASHH ===================");
                 Console.WriteLine("================= ERRORRRR CRASHH ===================");
                 Console.WriteLine("================= ERRORRRR CRASHH ===================");
-                new Thread(() => ConsoleBeep()).Start();
+                new Thread((ThreadStart)(() => Program.ConsoleBeep())).Start();
             }
-
-            //Console commands Menu
-            while(true){
+            while (true)
+            {
                 string crl = Console.ReadLine();
                 string Cmd = crl.Split(' ')[0];
                 crl = Utils.ReplaceFirstOccurrence(crl, Cmd, "");
-                switch (Cmd)
+                string str = Cmd;
+                string substring;
+                if (!(str == "help"))
                 {
-                    case "help":
-                        Utils.Log("Try typing '1231'!", LogType.Console);
-                        Utils.Log("Try typing 'hel123p'!", LogType.Console);
-                        break;
-                    case "join":
-                        string substring = crl.Substring(crl.LastIndexOf('/') + 1);
-                        //client.AcceptInvite(substring);
-                        Utils.Log("Joined, "+ substring, LogType.Misc);
-                        break;
-                    default:
+                    if (str == "join")
+                    {
+                        substring = crl.Substring(crl.LastIndexOf('/') + 1);
+                        Utils.Log("Joined, " + substring, LogType.Misc);
+                    }
+                    else
                         Utils.Log("Try typing 'help'!", LogType.Console);
-                        break;
                 }
+                else
+                {
+                    Utils.Log("Try typing '1231'!", LogType.Console);
+                    Utils.Log("Try typing 'hel123p'!", LogType.Console);
+                }
+                substring = (string)null;
+                crl = (string)null;
+                Cmd = (string)null;
             }
-
         }
-        
+
         public static void ConsoleBeep()
         {
-            while (true) {
+            while (true)
+            {
                 Console.Beep(658, 125);
                 Console.Beep(1320, 500);
                 Console.Beep(990, 250);
@@ -257,107 +235,81 @@ namespace Onno204Bot
         public static async Task Login()
         {
             Utils.Log("Receiving token...", LogType.Console);
-            discord = new DiscordClient(new DiscordConfiguration
+            Program.discord = new DiscordClient(new DiscordConfiguration()
             {
-                Token = DiscordLoginUtils.GetDiscordToken(),
-<<<<<<< HEAD
-                //Token = "Mzc5NzUxMDc5MjAzNzAwNzQy.DSV7Dg.z7EPbdWvDPIgTJubhMRHGtoaqoU",
-=======
-                //Token = "Mzc5NzUxMDc5MjAzNzAwN1z2Qy.DO-632Q.242hCMjJe1WKb32tulLsdgsf1lJk",
->>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
-                TokenType = TokenType.User,
-                LogLevel = LogLevel.Debug,
+                //Token = DiscordLoginUtils.GetDiscordToken(),
+                Token = "Mzc5NzUxMDc5MjAzNzAwNzQy.DScCfw.H5BHfhXw-ZwvN4DMgPTdmTRBJ_c",
+                TokenType = DSharpPlus.TokenType.Bot,
+                LogLevel = DSharpPlus.LogLevel.Debug,
                 UseInternalLogHandler = true
             });
-            
-            await WaitReceiveToken();
+            await Program.WaitReceiveToken();
             Utils.Log("Received token.", LogType.Console);
-            
-            SetupEvents();
+            Program.SetupEvents();
+            await Onno204Bot.Events.Events.RegisterEvent();
             Utils.Log("Setting up commands...", LogType.Console);
-            commands = discord.UseCommandsNext(new CommandsNextConfiguration
+            Program.commands = Program.discord.UseCommandsNext(new CommandsNextConfiguration()
             {
                 StringPrefix = Config.CommandString,
                 CaseSensitive = false,
                 EnableDefaultHelp = true
             });
-
-            commands.RegisterCommands<Commands>();// Register commands Class
-            commands.RegisterCommands<AdminCommands>();// Register commands Class
-            commands.CommandExecuted += Events.CommandsEvents.Commands_CommandExecuted; //Register Command Events Class
-            //commands.SetHelpFormatter<HelpFormatter>();
-
+            Program.commands.RegisterCommands<Commands>();
+            Program.commands.CommandExecuted += new AsyncEventHandler<CommandExecutionEventArgs>(CommandsEvents.Commands_CommandExecuted);
             Utils.Log("Done Setting up commands.", LogType.Console);
             Utils.Log("Setting up Voice...", LogType.Console);
-            var vcfg = new VoiceNextConfiguration {
+            VoiceNextConfiguration vcfg = new VoiceNextConfiguration()
+            {
+                EnableIncoming = true,
                 VoiceApplication = VoiceApplication.Voice
             };
-
-            // and let's enable it
-            Voice = discord.UseVoiceNext(vcfg);
+            Program.Voice = Program.discord.UseVoiceNext(vcfg);
             Utils.Log("Done Setting up Voice.", LogType.Console);
-
-
             Utils.Log("Loggin in...", LogType.Console);
-            await discord.ConnectAsync();
+            await Program.discord.ConnectAsync();
             Utils.Log("Logged in.", LogType.Console);
             await Task.Delay(-1);
         }
 
-        public static async Task WaitReceiveToken() {
-            while (discord == null)
-            {
+        public static async Task WaitReceiveToken()
+        {
+            while (Program.discord == null)
                 await Task.Delay(-1);
-            }
         }
 
-        #endregion
-
-        #region Crypt and Decrypt
-        //http://tekeye.biz/2015/encrypt-decrypt-c-sharp-string
-        private const string initVector = "pemgail9uzpgzl88";
-        // This constant is used to determine the keysize of the encryption algorithm
-        private const int keysize = 256;
-
-        //Encrypt
         public static string EncryptString(string plainText, string passPhrase)
         {
-            byte[] initVectorBytes = Encoding.UTF8.GetBytes(initVector);
-            byte[] plainTextBytes = Encoding.UTF8.GetBytes(plainText);
-            PasswordDeriveBytes password = new PasswordDeriveBytes(passPhrase, null);
-            byte[] keyBytes = password.GetBytes(keysize / 8);
-            RijndaelManaged symmetricKey = new RijndaelManaged();
-            symmetricKey.Mode = CipherMode.CBC;
-            ICryptoTransform encryptor = symmetricKey.CreateEncryptor(keyBytes, initVectorBytes);
+            byte[] bytes1 = Encoding.UTF8.GetBytes("pemgail9uzpgzl88");
+            byte[] bytes2 = Encoding.UTF8.GetBytes(plainText);
+            byte[] bytes3 = new PasswordDeriveBytes(passPhrase, (byte[])null).GetBytes(32);
+            RijndaelManaged rijndaelManaged = new RijndaelManaged();
+            rijndaelManaged.Mode = CipherMode.CBC;
+            ICryptoTransform encryptor = rijndaelManaged.CreateEncryptor(bytes3, bytes1);
             MemoryStream memoryStream = new MemoryStream();
-            CryptoStream cryptoStream = new CryptoStream(memoryStream, encryptor, CryptoStreamMode.Write);
-            cryptoStream.Write(plainTextBytes, 0, plainTextBytes.Length);
+            CryptoStream cryptoStream = new CryptoStream((Stream)memoryStream, encryptor, CryptoStreamMode.Write);
+            cryptoStream.Write(bytes2, 0, bytes2.Length);
             cryptoStream.FlushFinalBlock();
-            byte[] cipherTextBytes = memoryStream.ToArray();
+            byte[] array = memoryStream.ToArray();
             memoryStream.Close();
             cryptoStream.Close();
-            return Convert.ToBase64String(cipherTextBytes);
+            return Convert.ToBase64String(array);
         }
-        //Decrypt
+
         public static string DecryptString(string cipherText, string passPhrase)
         {
-            byte[] initVectorBytes = Encoding.UTF8.GetBytes(initVector);
-            byte[] cipherTextBytes = Convert.FromBase64String(cipherText);
-            PasswordDeriveBytes password = new PasswordDeriveBytes(passPhrase, null);
-            byte[] keyBytes = password.GetBytes(keysize / 8);
-            RijndaelManaged symmetricKey = new RijndaelManaged();
-            symmetricKey.Mode = CipherMode.CBC;
-            ICryptoTransform decryptor = symmetricKey.CreateDecryptor(keyBytes, initVectorBytes);
-            MemoryStream memoryStream = new MemoryStream(cipherTextBytes);
-            CryptoStream cryptoStream = new CryptoStream(memoryStream, decryptor, CryptoStreamMode.Read);
-            byte[] plainTextBytes = new byte[cipherTextBytes.Length];
-            int decryptedByteCount = cryptoStream.Read(plainTextBytes, 0, plainTextBytes.Length);
+            byte[] bytes1 = Encoding.UTF8.GetBytes("pemgail9uzpgzl88");
+            byte[] buffer = Convert.FromBase64String(cipherText);
+            byte[] bytes2 = new PasswordDeriveBytes(passPhrase, (byte[])null).GetBytes(32);
+            RijndaelManaged rijndaelManaged = new RijndaelManaged();
+            rijndaelManaged.Mode = CipherMode.CBC;
+            ICryptoTransform decryptor = rijndaelManaged.CreateDecryptor(bytes2, bytes1);
+            MemoryStream memoryStream = new MemoryStream(buffer);
+            CryptoStream cryptoStream = new CryptoStream((Stream)memoryStream, decryptor, CryptoStreamMode.Read);
+            byte[] numArray = new byte[buffer.Length];
+            int count = cryptoStream.Read(numArray, 0, numArray.Length);
             memoryStream.Close();
             cryptoStream.Close();
-            return Encoding.UTF8.GetString(plainTextBytes, 0, decryptedByteCount);
+            return Encoding.UTF8.GetString(numArray, 0, count);
         }
-        #endregion
-
-
     }
 }

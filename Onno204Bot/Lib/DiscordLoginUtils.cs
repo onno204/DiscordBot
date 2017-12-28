@@ -22,11 +22,7 @@ namespace Onno204Bot
             };
             String tok = client.SendLoginRequest();
             //client.Connect();
-<<<<<<< HEAD
             Console.WriteLine($"Token: {tok}");
-=======
-            //Console.WriteLine($"Token: {tok}");
->>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
             return tok;
         }
     }

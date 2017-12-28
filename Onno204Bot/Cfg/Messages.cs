@@ -15,7 +15,7 @@ namespace Onno204Bot
         //First the '!' Than the '@' !!
 
         //~1 - ~2 - ~3 - ~4 --- e.t.c.
-        public static String BotTitle = "***~1 bot at your service!***"; // ~1 = User Name
+        public static String BotTitle = "~1 bot at your service!"; // ~1 = User Name
 
         /*
             1. await DiscordUtils.SendBotMessage(Messages.AudioMusicQueueEnded, ctx.Message.Channel, user: ctx.User); 
@@ -33,7 +33,8 @@ namespace Onno204Bot
         public static String NewDMCreated = "Hoi, Ik zag dat je een prive kanaal maakte!";
         public static String MessageDeleted = "~1 heeft een bericht verwijderd!$!~2"; // ~1 = User --- ~2 = Message
         public static String PurgeMessage = "Ik heb met plezier ~1 berichten verwijderd."; // ~1 = Amount of messages
-        
+        public static string StringToNumberError = "Er is iets fout gegaan toen ik je input omzette naar een getal!";
+
 
         //Music Stuff
         public static String AudioAlreadyInguild = "Ik ben al verbonden in deze server! :)";

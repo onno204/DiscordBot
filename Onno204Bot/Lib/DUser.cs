@@ -58,7 +58,7 @@ namespace Onno204Bot.Lib
                 try { 
                     if (VoiceChn == 0)
                     {
-                        var vstat = ctx.Member.VoiceState;
+                        DiscordVoiceState vstat = ctx.Member.VoiceState;
                         if (vstat.Channel == null && chn == null)
                         {
                             // they did not specify a channel and are not in one

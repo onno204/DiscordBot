@@ -24,20 +24,23 @@ namespace Onno204Bot
         //Chat
         public static String CommandString = "::";
         public static String ReplyLink = "http://prio1gaming.nl.eu.org";
-        public static bool NoChatOutput = true;
+        public static bool NoChatOutput = false;
+        public static bool AlotOfChatOutput = false;
 
         //Log
-<<<<<<< HEAD
         public static string LogDir = @Directory.GetCurrentDirectory() + "\\Logs\\";
         public static string VideoDir = @Directory.GetCurrentDirectory() + "\\Bot\\";
         public static string SaveFiles = @Directory.GetCurrentDirectory() + "\\Saves\\";
-=======
-        public static string LogDir = Directory.GetCurrentDirectory() + "\\Logs\\";
->>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
 
         //Misc
         //public static String BlaclistedServers = "Prio1Gaming,Prio2Gaming";
-        public static String BlaclistedServers = "none";
+        public static String BlacklistedServers = "none";
         public static bool Exiting = false;
+
+        //Music Player
+        public static bool StopPlayingWithNewPlayer = true;
+        public static bool StopPlayingIfANYsoundIsReceived = false;
+        public static bool NotMoreThan2InAChannel = true;
+
     }
 }

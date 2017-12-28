@@ -299,3 +299,20 @@
 28-dec-2017 01:31:12 (//Commands_CommandExecuted)-> 28-12-2017 13:31:12 Command: onno204, ::leave
 =======
 >>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
+28-dec-2017 10:56:29 (//Commands_CommandExecuted)-> 28-12-2017 22:56:29 Command: onno204, ::echo test
+28-dec-2017 10:57:17 (//Commands_CommandExecuted)-> 28-12-2017 22:57:17 Command: onno204, ::echo test
+28-dec-2017 10:57:58 (//Commands_CommandExecuted)-> 28-12-2017 22:57:58 Command: onno204, ::echo test
+28-dec-2017 10:58:32 (//Commands_CommandExecuted)-> 28-12-2017 22:58:32 Command: onno204, ::echo test
+28-dec-2017 10:58:45 (//Commands_CommandExecuted)-> 28-12-2017 22:58:45 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+28-dec-2017 10:59:16 (//Commands_CommandExecuted)-> 28-12-2017 22:59:16 Command: onno204, ::remoteupdate
+28-dec-2017 11:04:54 (//Commands_CommandExecuted)-> 28-12-2017 23:04:54 Command: onno204, ::play https://www.youtube.com/watch?v=K9WiYD8zCA8
+28-dec-2017 11:08:02 (//Commands_CommandExecuted)-> 28-12-2017 23:08:02 Command: onno204, ::play https://www.youtube.com/watch?v=Vl4Y0uoFi_g
+28-dec-2017 11:09:26 (//Commands_CommandExecuted)-> 28-12-2017 23:09:26 Command: onno204, ::play https://www.youtube.com/watch?v=Vl4Y0uoFi_g
+28-dec-2017 11:10:03 (//Commands_CommandExecuted)-> 28-12-2017 23:10:03 Command: onno204, ::play https://www.youtube.com/watch?v=jN2gBcfX1r8
+28-dec-2017 11:10:20 (//Commands_CommandExecuted)-> 28-12-2017 23:10:20 Command: onno204, ::play http://www.youtube.com/watch?v=jN2gBcfX1r8
+28-dec-2017 11:11:40 (//Commands_CommandExecuted)-> 28-12-2017 23:11:40 Command: onno204, ::play https://www.youtube.com/watch?v=jN2gBcfX1r8
+28-dec-2017 11:12:24 (//Commands_CommandExecuted)-> 28-12-2017 23:12:24 Command: onno204, ::play https://www.youtube.com/watch?v=jN2gBcfX1r8
+28-dec-2017 11:13:16 (//Commands_CommandExecuted)-> 28-12-2017 23:13:16 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+28-dec-2017 11:18:13 (//Commands_CommandExecuted)-> 28-12-2017 23:18:13 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+28-dec-2017 11:21:04 (//Commands_CommandExecuted)-> 28-12-2017 23:21:04 Command: onno204, ::skip
+28-dec-2017 11:38:28 (//Commands_CommandExecuted)-> 28-12-2017 23:38:28 Command: onno204, ::skip

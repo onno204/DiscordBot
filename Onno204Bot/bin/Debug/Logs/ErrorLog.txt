@@ -1460,3 +1460,283 @@ De objectverwijzing is niet op een exemplaar van een object ingesteld.
 27-dec-2017 09:05:43 (//MoveNext)-> File `A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\ChristmasMusicMixBestTrapDubstepEDMMerryChristmas2017_HappyNewYear2018YouTube.mp4.mp3` does not exist.
 =======
 >>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
+28-dec-2017 08:34:28 (//MoveNext)->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__17.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 184
+Unauthorized: 403
+28-dec-2017 10:56:29 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.:   bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+28-dec-2017 10:57:17 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.:   bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+28-dec-2017 11:00:35 (//MoveNext)-> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__9_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 48
+28-dec-2017 11:04:12 (//MoveNext)->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__23.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 364
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 289
+The connection is not initialized
+28-dec-2017 11:04:29 (//MoveNext)-> Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld. -----    bij System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   bij System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetContentAsync[T](Uri requestUri, HttpCompletionOption completionOption, T defaultValue, Func`2 readAs)
+   bij System.Net.Http.HttpClient.GetStringAsync(Uri requestUri)
+   bij VideoLibrary.YouTubeVideo.<DecryptAsync>d__34.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.YouTubeVideo.<GetUriAsync>d__12.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.VideoClient.<GetBytesAsync>d__10.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.<GetBytesAsync>d__11.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.GetBytes()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 153
+28-dec-2017 11:04:45 (//MoveNext)-> Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld. -----    bij System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   bij System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetContentAsync[T](Uri requestUri, HttpCompletionOption completionOption, T defaultValue, Func`2 readAs)
+   bij System.Net.Http.HttpClient.GetStringAsync(Uri requestUri)
+   bij VideoLibrary.YouTubeVideo.<DecryptAsync>d__34.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.YouTubeVideo.<GetUriAsync>d__12.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.VideoClient.<GetBytesAsync>d__10.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.<GetBytesAsync>d__11.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.GetBytes()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 153
+28-dec-2017 11:04:54 (//MoveNext)-> Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld. -----    bij System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   bij System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetContentAsync[T](Uri requestUri, HttpCompletionOption completionOption, T defaultValue, Func`2 readAs)
+   bij System.Net.Http.HttpClient.GetStringAsync(Uri requestUri)
+   bij VideoLibrary.YouTubeVideo.<DecryptAsync>d__34.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.YouTubeVideo.<GetUriAsync>d__12.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.VideoClient.<GetBytesAsync>d__10.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.<GetBytesAsync>d__11.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.GetBytes()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 153
+28-dec-2017 11:05:11 (//MoveNext)-> Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld. -----    bij System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   bij System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetContentAsync[T](Uri requestUri, HttpCompletionOption completionOption, T defaultValue, Func`2 readAs)
+   bij System.Net.Http.HttpClient.GetStringAsync(Uri requestUri)
+   bij VideoLibrary.YouTubeVideo.<DecryptAsync>d__34.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.YouTubeVideo.<GetUriAsync>d__12.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.VideoClient.<GetBytesAsync>d__10.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.<GetBytesAsync>d__11.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.GetBytes()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 153
+28-dec-2017 11:08:02 (//MoveNext)-> Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld. -----    bij System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   bij System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetContentAsync[T](Uri requestUri, HttpCompletionOption completionOption, T defaultValue, Func`2 readAs)
+   bij System.Net.Http.HttpClient.GetStringAsync(Uri requestUri)
+   bij VideoLibrary.YouTubeVideo.<DecryptAsync>d__34.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.YouTubeVideo.<GetUriAsync>d__12.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.VideoClient.<GetBytesAsync>d__10.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.<GetBytesAsync>d__11.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.GetBytes()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 153
+28-dec-2017 11:09:25 (//MoveNext)-> Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld. -----    bij System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   bij System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetContentAsync[T](Uri requestUri, HttpCompletionOption completionOption, T defaultValue, Func`2 readAs)
+   bij System.Net.Http.HttpClient.GetStringAsync(Uri requestUri)
+   bij VideoLibrary.YouTubeVideo.<DecryptAsync>d__34.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.YouTubeVideo.<GetUriAsync>d__12.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.VideoClient.<GetBytesAsync>d__10.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.<GetBytesAsync>d__11.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.GetBytes()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 153
+28-dec-2017 11:10:03 (//MoveNext)-> Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld. -----    bij System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   bij System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetContentAsync[T](Uri requestUri, HttpCompletionOption completionOption, T defaultValue, Func`2 readAs)
+   bij System.Net.Http.HttpClient.GetStringAsync(Uri requestUri)
+   bij VideoLibrary.YouTubeVideo.<DecryptAsync>d__34.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.YouTubeVideo.<GetUriAsync>d__12.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.VideoClient.<GetBytesAsync>d__10.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.<GetBytesAsync>d__11.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.GetBytes()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 153
+28-dec-2017 11:10:20 (//MoveNext)-> Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld. -----    bij System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   bij System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetContentAsync[T](Uri requestUri, HttpCompletionOption completionOption, T defaultValue, Func`2 readAs)
+   bij System.Net.Http.HttpClient.GetStringAsync(Uri requestUri)
+   bij VideoLibrary.YouTubeVideo.<DecryptAsync>d__34.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.YouTubeVideo.<GetUriAsync>d__12.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.VideoClient.<GetBytesAsync>d__10.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.<GetBytesAsync>d__11.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.GetBytes()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 153
+28-dec-2017 11:11:40 (//MoveNext)-> Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld. -----    bij System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   bij System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetContentAsync[T](Uri requestUri, HttpCompletionOption completionOption, T defaultValue, Func`2 readAs)
+   bij System.Net.Http.HttpClient.GetStringAsync(Uri requestUri)
+   bij VideoLibrary.YouTubeVideo.<DecryptAsync>d__34.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.YouTubeVideo.<GetUriAsync>d__12.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.VideoClient.<GetBytesAsync>d__10.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.<GetBytesAsync>d__11.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.Video.GetBytes()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 153
+28-dec-2017 11:12:24 (//MoveNext)-> Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld. -----    bij System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   bij System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetContentAsync[T](Uri requestUri, HttpCompletionOption completionOption, T defaultValue, Func`2 readAs)
+   bij System.Net.Http.HttpClient.GetStringAsync(Uri requestUri)
+   bij VideoLibrary.YouTubeVideo.<DecryptAsync>d__34.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.YouTubeVideo.<GetUriAsync>d__12.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 153
+28-dec-2017 11:13:15 (//MoveNext)-> Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld. -----    bij System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   bij System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   bij System.Net.Http.HttpClient.GetContentAsync[T](Uri requestUri, HttpCompletionOption completionOption, T defaultValue, Func`2 readAs)
+   bij System.Net.Http.HttpClient.GetStringAsync(Uri requestUri)
+   bij VideoLibrary.YouTubeVideo.<DecryptAsync>d__34.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij VideoLibrary.YouTubeVideo.<GetUriAsync>d__12.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 154
+28-dec-2017 11:18:11 (//SetMusicURL)-> Error reading JObject from JsonReader. Path '', line 0, position 0.:   bij Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   bij Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   bij Newtonsoft.Json.Linq.JObject.Parse(String json)
+   bij Onno204Bot.Lib.DUtils.SetMusicURL(Video video, String URL) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUtils.cs:regel 51
+28-dec-2017 11:29:09 (//MoveNext)->    bij Onno204Bot.Lib.DUtils.GetAmountInVoice(DiscordChannel VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUtils.cs:regel 65
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__23.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 357
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 289
+De objectverwijzing is niet op een exemplaar van een object ingesteld.
+28-dec-2017 11:35:04 (//MoveNext)-> De objectverwijzing is niet op een exemplaar van een object ingesteld. -----    bij Onno204Bot.Lib.DiscordUtils.<SendBotMessage>d__0.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DiscordUtils.cs:regel 13
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 151

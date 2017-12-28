@@ -589,3 +589,57 @@
 27-dec-2017 11:16:36 (//MoveNext)-> Ik ben niet verbonden in deze server!
 =======
 >>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
+28-dec-2017 08:34:30 (//MoveNext)-> https:// https://www.youtube.com/watch?v=GPATUFiWoTI
+28-dec-2017 08:34:30 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+28-dec-2017 08:34:31 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+28-dec-2017 08:34:31 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+28-dec-2017 10:56:29 (//MoveNext)->  test
+28-dec-2017 10:57:17 (//MoveNext)->  test
+28-dec-2017 10:57:58 (//MoveNext)->  test
+28-dec-2017 10:58:32 (//MoveNext)->  test
+28-dec-2017 10:58:44 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+28-dec-2017 10:58:44 (//MoveNext)-> Ik ben niet verbonden in deze server, Laat me het proberen!
+28-dec-2017 10:58:45 (//MoveNext)-> Ik ben het kanaal 'General' gejoined!
+28-dec-2017 10:58:45 (//MoveNext)-> Begonnen met het afspelen in 'General'
+28-dec-2017 10:58:45 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+28-dec-2017 11:03:55 (//MoveNext)-> Ik ben niet verbonden in deze server!
+28-dec-2017 11:04:12 (//MoveNext)-> Ik heb het kanaal 'General' verlaten!
+28-dec-2017 11:04:28 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:04:29 (//MoveNext)-> Error: Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld.
+28-dec-2017 11:04:44 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:04:45 (//MoveNext)-> Error: Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld.
+28-dec-2017 11:04:54 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:04:54 (//MoveNext)-> Error: Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld.
+28-dec-2017 11:05:11 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:05:11 (//MoveNext)-> Error: Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld.
+28-dec-2017 11:07:20 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:08:01 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:08:02 (//MoveNext)-> Error: Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld.
+28-dec-2017 11:09:25 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:09:25 (//MoveNext)-> Error: Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld.
+28-dec-2017 11:10:02 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:10:03 (//MoveNext)-> Error: Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld.
+28-dec-2017 11:10:20 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:10:20 (//MoveNext)-> Error: Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld.
+28-dec-2017 11:11:40 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:11:40 (//MoveNext)-> Error: Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld.
+28-dec-2017 11:12:24 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:12:24 (//MoveNext)-> Error: Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld.
+28-dec-2017 11:13:15 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:13:15 (//MoveNext)-> Error: Er is een ongeldige aanvraag-URI opgegeven. De aanvraag-URI moet een absolute URI zijn of het basisadres moet zijn ingesteld.
+28-dec-2017 11:16:59 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:18:11 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+28-dec-2017 11:18:12 (//MoveNext)-> Ik ben niet verbonden in deze server, Laat me het proberen!
+28-dec-2017 11:18:12 (//MoveNext)-> Ik ben het kanaal 'General' gejoined!
+28-dec-2017 11:18:13 (//MoveNext)-> Begonnen met het afspelen in 'General'
+28-dec-2017 11:18:13 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+28-dec-2017 11:18:28 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:19:56 (//MoveNext)-> succesfully added 'Trap Music 2017 ☢ Bass Boosted Best Trap Mix | Car Music - YouTube' to the queue!
+28-dec-2017 11:19:56 (//MoveNext)-> Er wordt al muziek afgespeelt!
+28-dec-2017 11:21:05 (//MoveNext)-> Now playing 'Trap Music 2017 ☢ Bass Boosted Best Trap Mix | Car Music - YouTube'.
+28-dec-2017 11:29:09 (//MoveNext)-> Er staat geen muziek meer in de queue!
+28-dec-2017 11:37:13 (//MoveNext)-> Ik ben bezig om je video te downloaden!!
+28-dec-2017 11:37:19 (//MoveNext)-> succesfully added 'Lil Pump - "Gucci Gang" (Official Music Video) - YouTube' to the queue!
+28-dec-2017 11:37:20 (//MoveNext)-> Begonnen met het afspelen in 'Rocket League'
+28-dec-2017 11:37:20 (//MoveNext)-> Now playing 'Lil Pump - "Gucci Gang" (Official Music Video) - YouTube'.
+28-dec-2017 11:38:28 (//MoveNext)-> Er staat geen muziek meer in de queue!

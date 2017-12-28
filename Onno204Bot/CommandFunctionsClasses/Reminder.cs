@@ -46,7 +46,7 @@ namespace Onno204Bot.CommandFunctionsClasses
             try {
                 JSON = JObject.Parse(File.ReadAllText(@filePath));
             }
-            catch (Exception e) { }
+            catch (Exception e) { Utils.Log(e.Message + ":" + e.StackTrace, LogType.Error);  }
             if (JSON == null) {
                 JSON = new JObject();
             }

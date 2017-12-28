@@ -57,8 +57,8 @@ namespace Onno204Bot.Remote
                                     duser.RemoteInt = inf.Id;
                                     duser.Args = Utils.ReplaceFirstOccurrence(inf.Command, cmd, "");
 
-                                    CommandFunction2.ExecuteCmd(cmd, duser);
-
+                                    Task T = CommandFunction2.ExecuteCmd(cmd, duser);
+                                    T.Wait();
 
                                     SendDone(inf.Id, "output");//Done
                                 }catch (Exception ee) { Error(inf.Id, ee.Message + "<:>" + ee.StackTrace); }

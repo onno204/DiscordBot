@@ -58,6 +58,11 @@ namespace Onno204Bot
             }
         }
 
+        public static void Debug(object obj)
+        {
+            Console.WriteLine("Debug: " + obj.ToString());
+        }
+
         public static void WriteToFile(String path, String Text)
         {
             // This text is added only once to the file.

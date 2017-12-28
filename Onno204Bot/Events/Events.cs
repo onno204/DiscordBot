@@ -48,6 +48,7 @@ namespace Onno204Bot.Events
                         }
                         */
                         Utils.Log("Error(" + ee.Message + "), " + ee.StackTrace, LogType.Error);
+                        await Task.Delay(1);
                     }
                 };
             }
@@ -66,7 +67,7 @@ namespace Onno204Bot.Events
                         }
 
                         DUser user = new DUser(e.Message.ChannelId, 0, e.Message.Channel.GuildId, e.Author.Id, command: Command, Arg: Arg, Args: Args);
-                        
+                        await Task.Delay(1);
                         return;
                     }
                 }

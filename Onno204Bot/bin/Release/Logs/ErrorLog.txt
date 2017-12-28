@@ -1,0 +1,63 @@
+28-dec-2017 02:46:21 (//MoveNext)-> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+28-dec-2017 02:46:21 (//MoveNext)-> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+28-dec-2017 03:26:47 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 03:26:54 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 04:13:03 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 06:21:00 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 06:55:27 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 06:55:27 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 07:11:45 (//MoveNext)-> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+28-dec-2017 07:43:20 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 07:47:38 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 08:14:55 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 08:14:56 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 08:15:01 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 08:15:12 (//MoveNext)-> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, UInt64 GuildID, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 89
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+28-dec-2017 08:31:55 (//MoveNext)->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij Onno204Bot.Events.Commands.<TryDelete>d__17.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 184
+Unauthorized: 403
+28-dec-2017 08:32:43 (//MoveNext)->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij Onno204Bot.Events.Commands.<TryDelete>d__17.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 184
+Unauthorized: 403
+28-dec-2017 08:33:24 (//MoveNext)->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij Onno204Bot.Events.Commands.<TryDelete>d__17.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 184
+Unauthorized: 403
