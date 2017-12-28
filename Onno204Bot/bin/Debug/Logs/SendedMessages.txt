@@ -1,2 +1,591 @@
 20-nov-2017 05:01:59 ->  test
 20-nov-2017 05:01:59 ->  test
+<<<<<<< HEAD
+23-nov-2017 08:48:31 ->  test
+23-nov-2017 08:51:17 ->  te
+13-dec-2017 10:59:56 -> Pong!
+13-dec-2017 11:00:06 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:00:10 -> Ik heb het kanaal 'General' verlaten!
+13-dec-2017 11:00:41 -> Ik ben bezig om je video te downloaden!!
+13-dec-2017 11:00:49 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:00:50 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+13-dec-2017 11:00:50 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:00:50 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:00:58 -> Ik heb het kanaal 'General' verlaten!
+13-dec-2017 11:01:02 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:01:02 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+13-dec-2017 11:01:03 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:01:03 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:01:10 -> Ik heb het kanaal 'General' verlaten!
+13-dec-2017 11:03:35 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:03:37 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:03:38 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:04:32 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:04:35 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:04:36 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:07:14 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:07:14 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+13-dec-2017 11:07:14 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:07:15 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:10:00 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:10:01 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+13-dec-2017 11:10:01 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:10:01 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:10:41 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:10:41 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+13-dec-2017 11:10:42 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:10:42 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:11:08 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:11:09 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+13-dec-2017 11:11:09 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:11:09 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:11:49 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:11:49 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+13-dec-2017 11:11:50 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:11:50 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:14:46 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:14:46 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+13-dec-2017 11:14:47 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:14:47 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:14:54 -> Ik heb het kanaal 'General' verlaten!
+13-dec-2017 11:15:56 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:15:57 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+13-dec-2017 11:15:57 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:15:57 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:16:56 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:16:57 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+13-dec-2017 11:16:57 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:16:57 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:17:14 -> Het nummer 'Bars and Melody - Hopeful - YouTube.mp4' is verwijderd!
+13-dec-2017 11:17:24 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:17:26 -> Ik heb het kanaal 'General' verlaten!
+13-dec-2017 11:17:29 -> Ik ben het kanaal 'General' gejoined!
+13-dec-2017 11:17:36 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+13-dec-2017 11:17:37 -> Begonnen met het afspelen in 'General'
+13-dec-2017 11:20:34 -> Er staat geen muziek meer in de queue!
+18-dec-2017 01:14:35 -> Ik ben het kanaal 'tset2' gejoined!
+18-dec-2017 01:14:41 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+18-dec-2017 01:14:41 -> Begonnen met het afspelen in 'tset2'
+20-dec-2017 01:21:17 -> Ik ben bezig om je video te downloaden!!
+20-dec-2017 01:23:46 -> succesfully added 'Bruno Mars,Charlie Puth,Ed Sheeran Best Christmas Songs,Greatest Hits Pop Playlist Christmas 2018 - YouTube' to the queue!
+20-dec-2017 01:23:47 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+20-dec-2017 01:23:47 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 01:23:48 -> Begonnen met het afspelen in 'General'
+20-dec-2017 01:25:26 -> Er staat geen muziek meer in de queue!
+20-dec-2017 01:26:02 -> Ik heb het kanaal 'General' verlaten!
+20-dec-2017 02:39:39 -> Pong!
+20-dec-2017 02:39:55 ->  tes
+20-dec-2017 02:40:03 ->  test
+20-dec-2017 02:44:11 ->  test
+20-dec-2017 02:44:48 ->  test
+20-dec-2017 02:47:48 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 02:48:14 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 02:48:14 -> Begonnen met het afspelen in 'General'
+20-dec-2017 02:51:12 -> Er staat geen muziek meer in de queue!
+20-dec-2017 02:52:09 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 02:52:09 -> Begonnen met het afspelen in 'General'
+20-dec-2017 02:53:08 -> Ik heb met plezier 100 berichten verwijderd.
+20-dec-2017 02:53:26 -> Ik ben bezig om je video te downloaden!!
+20-dec-2017 02:53:34 -> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+20-dec-2017 02:53:34 -> Er wordt al muziek afgespeelt!
+20-dec-2017 02:54:11 -> De muziek is nu op 69% met het afspelen.
+20-dec-2017 02:54:18 -> De muziek is nu op 73% met het afspelen.
+20-dec-2017 02:58:08 -> Er staat geen muziek meer in de queue!
+20-dec-2017 03:07:29 ->  123
+20-dec-2017 03:08:34 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 03:08:35 -> 253652783645982722 in hey
+20-dec-2017 03:10:59 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 03:11:02 -> 253652783645982722 in hey
+20-dec-2017 03:14:22 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 03:14:23 -> 253652783645982722 in hey
+20-dec-2017 03:16:14 -> Ik ben niet verbonden in deze server!
+20-dec-2017 03:16:16 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 03:16:18 -> Ik heb het kanaal 'General' verlaten!
+20-dec-2017 03:16:21 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 03:16:23 -> 253652783645982722 in hey
+20-dec-2017 03:19:36 -> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+20-dec-2017 03:19:37 -> VNext is not enabled or configured.
+20-dec-2017 08:02:43 -> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+20-dec-2017 08:02:43 -> VNext is not enabled or configured.
+20-dec-2017 08:04:03 -> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+20-dec-2017 08:04:03 -> VNext is not enabled or configured.
+20-dec-2017 08:06:33 -> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+20-dec-2017 08:06:33 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+20-dec-2017 08:06:34 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 08:06:34 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+20-dec-2017 08:06:43 -> Ik ben al verbonden in deze server! :)
+20-dec-2017 08:06:46 -> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+20-dec-2017 08:06:47 -> Begonnen met het afspelen in 'General'
+20-dec-2017 08:06:53 -> Ik heb het kanaal 'General' verlaten!
+20-dec-2017 08:06:56 -> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+20-dec-2017 08:06:56 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+20-dec-2017 08:06:57 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 08:06:57 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+20-dec-2017 08:07:09 -> Ik heb het kanaal 'General' verlaten!
+20-dec-2017 08:07:13 -> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+20-dec-2017 08:07:13 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+20-dec-2017 08:07:13 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 08:07:14 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+20-dec-2017 08:07:35 -> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+20-dec-2017 08:07:36 -> Begonnen met het afspelen in 'General'
+20-dec-2017 08:08:22 -> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+20-dec-2017 08:08:22 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+20-dec-2017 08:08:23 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 08:08:23 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+20-dec-2017 08:09:42 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 08:09:43 -> Ik heb het kanaal 'General' verlaten!
+20-dec-2017 08:09:47 -> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+20-dec-2017 08:09:48 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+20-dec-2017 08:09:49 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 08:09:49 -> Begonnen met het afspelen in 'General'
+20-dec-2017 08:12:50 -> Er staat geen muziek meer in de queue!
+20-dec-2017 08:18:09 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 08:18:09 -> Begonnen met het afspelen in 'General'
+20-dec-2017 08:21:06 -> Er staat geen muziek meer in de queue!
+20-dec-2017 08:42:31 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 08:42:32 -> https://https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 08:42:32 -> Ik ben niet verbonden in deze server, Laat me het proberen!
+20-dec-2017 08:42:33 -> Ik ben het kanaal 'General' gejoined!
+20-dec-2017 08:42:33 -> Begonnen met het afspelen in 'General'
+20-dec-2017 08:42:33 -> Now playing 'Bars and Melody - Hopeful - YouTube.mp4'.
+20-dec-2017 08:42:38 -> https://r3---sn-5hne6nsy.googlevideo.com/videoplayback?ipbits=0&ip=84.104.157.81&key=yt6&id=o-AIOASVY4ZcvjrV5HBUlZvameIO-sKbfF9n5Plyy0yXnW&ei=BL06WrOfLoaE1wKg7rfgDA&ratebypass=yes&initcwndbps=1502500&requiressl=yes&pl=15&source=youtube&mime=video/mp4&expire=1513820516&itag=22&gcr=nl&sparams=dur,ei,gcr,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,expire&dur=177.307&mn=sn-5hne6nsy&mm=31&lmt=1472269665109286&ms=au&mv=m&mt=1513798836&signature=B47FA6C03DAFD9B04A2C5FB844E870C3A8F82EFC.69BC599BAAB862DABB32ABF7DC9B464E0AA185F8
+20-dec-2017 08:48:44 -> Now playing 'Bars and Melody - Hopeful - YouTube.mp4'.
+20-dec-2017 08:48:44 -> https://r3---sn-5hne6nsy.googlevideo.com/videoplayback?ratebypass=yes&sparams=dur,ei,gcr,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,expire&itag=22&ei=eL46Wq_yCduo1gKj5IagDw&id=o-AKGRCNn3C6J6Pe5l3uStVSIk39IfuUsb_KVyQzk1M6fT&mn=sn-5hne6nsy&mm=31&ipbits=0&initcwndbps=1521250&ip=84.104.157.81&ms=au&dur=177.307&mv=m&mt=1513799201&expire=1513820888&lmt=1472269665109286&gcr=nl&key=yt6&pl=15&mime=video/mp4&source=youtube&requiressl=yes&signature=0CEA6B24F5EF1AACC98332338297AD7CCB7D5212.BFD9452E68C8E9EC6F6ED309EEEE34701B0DB9E9
+20-dec-2017 08:51:40 -> Now playing 'Bars and Melody - Thousand Years - YouTube.mp4'.^https://r5---sn-5hnekn76.googlevideo.com/videoplayback?signature=6B0C986B2435439604ADB565A3C733B9D2A6B996.5EDAD06B58279722C6834B35139F8931447C7B8F&ratebypass=yes&initcwndbps=1513750&ei=KL86Wt7AKpmw1gKt6KG4DQ&key=yt6&lmt=1509594144187943&expire=1513821064&dur=180.906&mm=31&mn=sn-5hnekn76&id=o-AO78T9S8FhMr_g1cvAH86Ic8HnzNjrvLfUO43FxYP-xE&mime=video/mp4&pl=15&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,expire&ipbits=0&mt=1513799356&source=youtube&ip=84.104.157.81&requiressl=yes&itag=22&mv=m&ms=au
+20-dec-2017 08:52:44 -> Now playing 'Bars and Melody - Hopeful - YouTube.mp4'.v^https://r3---sn-5hne6nsy.googlevideo.com/videoplayback?dur=177.307&key=yt6&source=youtube&initcwndbps=1446250&itag=22&requiressl=yes&ei=aL86Wu_MG5fh1wKOk7_IDw&gcr=nl&expire=1513821128&mm=31&ip=84.104.157.81&mn=sn-5hne6nsy&mime=video/mp4&id=o-AMqAvyFEWwuopIHYJr1XUW3KNQSTLfwu1-J4CRVqyEF8&pl=15&ms=au&sparams=dur,ei,gcr,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,expire&mt=1513799430&mv=m&ratebypass=yes&lmt=1472269665109286&ipbits=0&signature=72D4CE7BC3D78247A736CCD8ABD6C046ABA81F02.8863A2B44D200C31AF12F3B425AACE08DF0CCF52
+20-dec-2017 08:54:28 -> Now playing 'Bars and Melody - Hopeful - YouTube.mp4'.v^https://r3---sn-5hnekn7l.googlevideo.com/videoplayback?ms=au&mv=m&mt=1513799560&key=yt6&ip=84.104.157.81&id=o-AP8eEd4j1tg420sdDj8Lz0iiPe47GTwrYA27mjHhwCJG&mn=sn-5hnekn7l&sparams=dur,ei,gcr,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,expire&ei=z786WqHcMYXA1wLGz7y4Dw&lmt=1472269665109286&mm=31&gcr=nl&requiressl=yes&source=youtube&pl=15&itag=22&dur=177.307&mime=video/mp4&expire=1513821231&ratebypass=yes&initcwndbps=1401250&ipbits=0&signature=CAEC0C96A3C3550065C595ED668B8764C4E688C5.AE38D635517F25266A226559FABC1EB643B6D76F
+20-dec-2017 08:55:01 -> Now playing 'Bars and Melody - Hopeful - YouTube.mp4'.
+20-dec-2017 08:55:01 -> https://r3---sn-5hnekn7l.googlevideo.com/videoplayback?ratebypass=yes&gcr=nl&ipbits=0&dur=177.307&id=o-ABs5Q2f-PfqD50xIRuX79E1kSpCxoV4NYFGLSt3lskZ2&initcwndbps=1450000&pl=15&source=youtube&mv=m&mime=video/mp4&ms=au&ip=84.104.157.81&mm=31&mn=sn-5hnekn7l&itag=22&expire=1513821265&lmt=1472269665109286&ei=8b86WurEB9mH1gLE2L6wBA&key=yt6&mt=1513799560&requiressl=yes&sparams=dur,ei,gcr,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,expire&signature=5609071C6E86D535ACE244EDA46825D6B7CB14A8.A0BFDDE9BE6444BC318FACB5A6A84A138577271F
+20-dec-2017 08:55:02 -> https://r3---sn-5hnekn7l.googlevideo.com/videoplayback?ratebypass=yes&gcr=nl&ipbits=0&dur=177.307&id=o-ABs5Q2f-PfqD50xIRuX79E1kSpCxoV4NYFGLSt3lskZ2&initcwndbps=1450000&pl=15&source=youtube&mv=m&mime=video/mp4&ms=au&ip=84.104.157.81&mm=31&mn=sn-5hnekn7l&itag=22&expire=1513821265&lmt=1472269665109286&ei=8b86WurEB9mH1gLE2L6wBA&key=yt6&mt=1513799560&requiressl=yes&sparams=dur,ei,gcr,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,expire&signature=5609071C6E86D535ACE244EDA46825D6B7CB14A8.A0BFDDE9BE6444BC318FACB5A6A84A138577271F
+20-dec-2017 08:55:15 -> Now playing 'Bars and Melody - Hopeful - YouTube.mp4'.
+20-dec-2017 08:55:15 -> https://r3---sn-5hnekn7l.googlevideo.com/videoplayback?ratebypass=yes&gcr=nl&ipbits=0&dur=177.307&id=o-ABs5Q2f-PfqD50xIRuX79E1kSpCxoV4NYFGLSt3lskZ2&initcwndbps=1450000&pl=15&source=youtube&mv=m&mime=video/mp4&ms=au&ip=84.104.157.81&mm=31&mn=sn-5hnekn7l&itag=22&expire=1513821265&lmt=1472269665109286&ei=8b86WurEB9mH1gLE2L6wBA&key=yt6&mt=1513799560&requiressl=yes&sparams=dur,ei,gcr,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,expire&signature=5609071C6E86D535ACE244EDA46825D6B7CB14A8.A0BFDDE9BE6444BC318FACB5A6A84A138577271F
+20-dec-2017 08:55:15 -> https://r3---sn-5hnekn7l.googlevideo.com/videoplayback?ratebypass=yes&gcr=nl&ipbits=0&dur=177.307&id=o-ABs5Q2f-PfqD50xIRuX79E1kSpCxoV4NYFGLSt3lskZ2&initcwndbps=1450000&pl=15&source=youtube&mv=m&mime=video/mp4&ms=au&ip=84.104.157.81&mm=31&mn=sn-5hnekn7l&itag=22&expire=1513821265&lmt=1472269665109286&ei=8b86WurEB9mH1gLE2L6wBA&key=yt6&mt=1513799560&requiressl=yes&sparams=dur,ei,gcr,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,expire&signature=5609071C6E86D535ACE244EDA46825D6B7CB14A8.A0BFDDE9BE6444BC318FACB5A6A84A138577271F
+20-dec-2017 08:57:28 -> Ik heb met plezier 5 berichten verwijderd.
+20-dec-2017 08:57:31 -> Ik heb met plezier 5 berichten verwijderd.
+20-dec-2017 08:57:38 -> Ik heb met plezier 7 berichten verwijderd.
+20-dec-2017 08:57:44 -> Now playing 'Bars and Melody - Hopeful - YouTube.mp4'.
+20-dec-2017 08:57:44 -> YouTube
+20-dec-2017 09:04:51 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:04:52 -> 
+20-dec-2017 09:40:18 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+20-dec-2017 09:43:51 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+20-dec-2017 09:45:34 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+20-dec-2017 09:45:35 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+20-dec-2017 09:45:43 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:45:43 -> https://::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:46:21 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+20-dec-2017 09:46:29 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:46:29 -> https://::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:47:33 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+20-dec-2017 09:47:41 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:47:41 -> https://https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:48:33 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:48:34 -> https://https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:48:43 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+20-dec-2017 09:48:51 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:48:51 -> https://::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:48:58 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+20-dec-2017 09:49:06 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:49:06 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:51:02 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:51:02 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 09:51:04 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:51:04 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:51:13 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:51:13 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 09:51:14 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:51:15 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:53:36 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:53:36 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:53:38 -> Het volume van de muziek is aangepast!
+20-dec-2017 09:53:42 -> Er staat geen muziek meer in de queue!
+20-dec-2017 09:53:47 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:53:48 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 09:53:48 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:53:48 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:53:51 -> 0. Bars and Melody - Hopeful - YouTube
+
+20-dec-2017 09:54:04 -> Het volume van de muziek is aangepast!
+20-dec-2017 09:54:10 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:54:10 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 09:54:14 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:54:14 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:54:32 -> Het volume van de muziek is aangepast!
+20-dec-2017 09:55:27 -> https://::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:55:28 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 09:55:32 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:55:32 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:56:43 -> 253652783645982722 in 373101876331413504hey
+20-dec-2017 09:57:32 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:57:32 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 09:57:33 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:57:34 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:58:00 -> 253652783645982722 in 373101876331413504hey
+20-dec-2017 09:58:13 -> Er staat geen muziek meer in de queue!
+20-dec-2017 09:59:38 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:59:38 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 09:59:40 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:59:40 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 09:59:52 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:59:52 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 09:59:53 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:59:54 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 10:01:41 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:01:41 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:01:43 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:01:43 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 10:01:48 -> 253652783645982722 in hey
+20-dec-2017 10:03:11 -> 253652783645982722 in 373101876331413504hey
+20-dec-2017 10:03:16 -> 253652783645982722 in 373101876331413504hey
+20-dec-2017 10:04:40 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:04:40 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:04:40 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:04:41 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 10:04:42 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:04:42 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 10:04:46 -> Er staat geen muziek meer in de queue!
+20-dec-2017 10:04:52 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:04:53 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:12:57 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:12:57 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:12:57 -> 253652783645982722 in hey
+20-dec-2017 10:13:17 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:13:17 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:13:18 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:13:18 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 10:13:21 -> 253652783645982722 in hey
+20-dec-2017 10:13:27 -> Er staat geen muziek meer in de queue!
+20-dec-2017 10:14:39 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:14:39 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:14:40 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:14:40 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 10:14:46 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:14:46 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:14:47 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:14:47 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 10:14:51 -> 253652783645982722 in hey
+20-dec-2017 10:29:45 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:29:45 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:29:46 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:29:46 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 10:31:47 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:31:47 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:31:48 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:31:48 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 10:31:58 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:31:58 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:31:59 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:31:59 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 10:36:07 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:36:07 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:36:08 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:36:08 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+20-dec-2017 10:36:24 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:36:24 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+20-dec-2017 10:36:29 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:36:29 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+23-dec-2017 01:08:16 -> Er is iets fout gegaan toen ik je input omzette naar een getal!
+23-dec-2017 01:09:06 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+23-dec-2017 01:09:19 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+23-dec-2017 01:09:19 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+23-dec-2017 01:09:20 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+23-dec-2017 01:09:20 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+23-dec-2017 01:09:42 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+23-dec-2017 01:09:43 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+23-dec-2017 01:09:47 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+23-dec-2017 01:09:47 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 02:53:30 -> 253652783645982722 in hey
+24-dec-2017 02:53:52 -> 253652783645982722 in hey
+24-dec-2017 02:56:08 -> 253652783645982722 in hey
+24-dec-2017 02:57:28 -> 253652783645982722 in hey
+24-dec-2017 02:58:42 -> 253652783645982722 in hey
+24-dec-2017 02:59:33 -> 253652783645982722 in hey
+24-dec-2017 03:02:31 -> 253652783645982722 in hey
+24-dec-2017 03:03:38 -> 253652783645982722 in hey
+24-dec-2017 03:04:18 -> 253652783645982722 in hey
+24-dec-2017 03:05:20 -> 253652783645982722 in hey
+24-dec-2017 03:05:20 -> The command u entered wasn't found!
+24-dec-2017 03:05:21 -> The command u entered wasn't found!
+24-dec-2017 03:05:21 -> The command u entered wasn't found!
+24-dec-2017 03:05:21 -> The command u entered wasn't found!
+24-dec-2017 03:05:22 -> The command u entered wasn't found!
+24-dec-2017 03:05:22 -> The command u entered wasn't found!
+24-dec-2017 03:05:23 -> The command u entered wasn't found!
+24-dec-2017 03:05:23 -> The command u entered wasn't found!
+24-dec-2017 03:05:23 -> The command u entered wasn't found!
+24-dec-2017 03:18:10 -> 253652783645982722 in hey
+24-dec-2017 03:18:11 -> The command u entered wasn't found!
+24-dec-2017 03:18:11 -> The command u entered wasn't found!
+24-dec-2017 03:18:11 -> The command u entered wasn't found!
+24-dec-2017 03:18:11 -> The command u entered wasn't found!
+24-dec-2017 03:19:32 -> 253652783645982722 in hey
+24-dec-2017 03:19:33 -> The command u entered wasn't found!
+24-dec-2017 03:19:33 -> The command u entered wasn't found!
+24-dec-2017 03:19:33 -> The command u entered wasn't found!
+24-dec-2017 03:19:34 -> The command u entered wasn't found!
+24-dec-2017 03:21:06 -> 253652783645982722 in hey
+24-dec-2017 03:21:07 -> The command u entered wasn't found!
+24-dec-2017 03:22:36 -> 253652783645982722 in hey
+24-dec-2017 03:22:37 -> The command u entered wasn't found!
+24-dec-2017 03:24:50 -> 253652783645982722 in hey
+24-dec-2017 03:24:51 -> Pong!
+24-dec-2017 03:27:23 -> 253652783645982722 in hey
+24-dec-2017 03:27:34 -> The command u entered wasn't found!
+24-dec-2017 03:27:55 -> The command u entered wasn't found!
+24-dec-2017 03:28:57 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 03:28:57 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 03:28:57 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 03:28:57 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 03:31:22 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 03:31:22 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 03:33:28 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 03:33:28 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 03:37:58 -> 253652783645982722 in hey
+24-dec-2017 03:37:59 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 03:38:00 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 03:38:01 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 03:38:01 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 03:38:35 -> 253652783645982722 in hey
+24-dec-2017 03:38:37 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 03:38:37 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 03:38:38 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 03:38:39 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:02:10 -> 253652783645982722 in 373101876331413504hey
+24-dec-2017 11:02:11 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:02:12 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:02:13 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:02:13 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:02:21 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:02:22 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:02:22 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:02:23 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:06:53 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:06:53 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:07:02 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:07:02 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:19:31 -> 253652783645982722 in hey
+24-dec-2017 11:24:10 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:24:11 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:25:42 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:25:42 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:25:43 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:25:44 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:27:06 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:27:06 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:29:01 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:29:01 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:29:12 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:29:12 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:33:43 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:33:43 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:37:25 -> The command u entered wasn't found!
+24-dec-2017 11:38:08 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:38:08 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:38:13 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:38:14 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:38:39 -> 0. NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube
+1. NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube
+
+24-dec-2017 11:41:37 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:41:37 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:41:38 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:41:39 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:42:08 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:42:08 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:45:27 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:45:27 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:45:28 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:45:28 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:51:21 -> 253652783645982722 in hey
+24-dec-2017 11:51:23 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:51:23 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:51:24 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:51:24 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:54:06 -> 253652783645982722 in hey
+24-dec-2017 11:54:17 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:54:17 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:54:19 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:54:19 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:55:33 -> 253652783645982722 in hey
+24-dec-2017 11:55:44 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:55:45 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:55:45 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:55:45 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:56:05 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:56:05 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:56:05 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:56:06 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:59:43 -> 253652783645982722 in hey
+24-dec-2017 11:59:45 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:59:45 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+24-dec-2017 11:59:46 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:59:47 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+24-dec-2017 11:59:55 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+24-dec-2017 11:59:55 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+25-dec-2017 12:00:42 -> Ik ben niet verbonden in deze server!
+25-dec-2017 12:01:01 -> 253652783645982722 in hey
+25-dec-2017 12:01:02 -> https:// https://www.youtube.com/watch?v=WkuHLzMMTZM
+25-dec-2017 12:01:03 -> succesfully added 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube' to the queue!
+25-dec-2017 12:01:04 -> https://www.youtube.com/watch?v=WkuHLzMMTZM
+25-dec-2017 12:01:04 -> Now playing 'NCT 127 엔시티 127 'Cherry Bomb' MV - YouTube'.
+25-dec-2017 12:02:00 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:02:01 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+25-dec-2017 12:02:01 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:02:01 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+25-dec-2017 12:02:54 -> Ik ben al verbonden in deze server! :)
+25-dec-2017 12:03:04 -> Ik ben al verbonden in deze server! :)
+25-dec-2017 12:03:21 -> Ik ben al verbonden in deze server! :)
+25-dec-2017 12:03:23 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:03:24 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+25-dec-2017 12:05:42 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:05:42 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+25-dec-2017 12:05:43 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:05:43 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+25-dec-2017 12:08:42 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:08:43 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+25-dec-2017 12:08:43 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:08:44 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+25-dec-2017 12:12:31 -> https:// https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:12:31 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+25-dec-2017 12:12:32 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:12:33 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+25-dec-2017 12:22:18 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:22:18 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+25-dec-2017 12:22:19 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:22:19 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+25-dec-2017 12:23:14 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:23:14 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+25-dec-2017 12:23:15 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:23:16 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+25-dec-2017 12:23:24 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:23:25 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+25-dec-2017 12:54:56 ->  test
+25-dec-2017 12:58:28 -> Pong!
+25-dec-2017 12:58:28 -> Pong2!
+25-dec-2017 12:58:49 -> https:// https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:58:50 -> succesfully added 'Bars and Melody - Hopeful - YouTube' to the queue!
+25-dec-2017 12:58:51 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:58:51 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+25-dec-2017 12:59:43 -> Ik ben al verbonden in deze server! :)
+25-dec-2017 01:01:04 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+25-dec-2017 01:01:31 -> https:// https://www.youtube.com/watch?v=K9GtDe4NjlI
+25-dec-2017 01:01:32 -> succesfully added 'BEST OF EDM - Electro House Music | Mega Festival Mix 2017 - YouTube' to the queue!
+25-dec-2017 01:01:33 -> https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 01:01:33 -> Now playing 'Bars and Melody - Hopeful - YouTube'.
+25-dec-2017 01:03:50 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+25-dec-2017 01:04:08 -> https:// https://www.youtube.com/watch?v=K9GtDe4NjlI
+25-dec-2017 01:04:08 -> succesfully added 'BEST OF EDM - Electro House Music | Mega Festival Mix 2017 - YouTube' to the queue!
+25-dec-2017 01:04:32 -> https:// https://www.youtube.com/watch?v=K9GtDe4NjlI
+25-dec-2017 01:04:32 -> Now playing 'BEST OF EDM - Electro House Music | Mega Festival Mix 2017 - YouTube'.
+25-dec-2017 01:04:34 -> https:// https://www.youtube.com/watch?v=K9GtDe4NjlI
+25-dec-2017 01:04:34 -> Now playing 'BEST OF EDM - Electro House Music | Mega Festival Mix 2017 - YouTube'.
+25-dec-2017 01:04:35 -> Er staat geen muziek meer in de queue!
+25-dec-2017 01:05:15 -> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+25-dec-2017 01:06:38 -> https:// https://www.youtube.com/watch?v=5oVnzni512A
+25-dec-2017 01:06:38 -> succesfully added 'EDM PARTY MIX - New Electro House & Bigroom Music 2017 - YouTube' to the queue!
+25-dec-2017 01:07:40 -> Ik ben niet verbonden in deze server!
+25-dec-2017 01:09:19 -> https:// https://www.youtube.com/watch?v=5oVnzni512A
+25-dec-2017 01:09:20 -> succesfully added 'EDM PARTY MIX - New Electro House & Bigroom Music 2017 - YouTube' to the queue!
+25-dec-2017 01:09:21 -> https:// https://www.youtube.com/watch?v=5oVnzni512A
+25-dec-2017 01:09:21 -> Now playing 'EDM PARTY MIX - New Electro House & Bigroom Music 2017 - YouTube'.
+25-dec-2017 01:09:43 -> Er staat geen muziek meer in de queue!
+25-dec-2017 01:10:02 -> https:// https://www.youtube.com/watch?v=5oVnzni512A
+25-dec-2017 01:10:03 -> succesfully added 'EDM PARTY MIX - New Electro House & Bigroom Music 2017 - YouTube' to the queue!
+25-dec-2017 01:10:23 -> Ik ben niet verbonden in deze server!
+25-dec-2017 01:11:01 -> Ik ben niet verbonden in deze server!
+25-dec-2017 01:15:05 -> https:// https://www.youtube.com/watch?v=5oVnzni512A
+25-dec-2017 02:00:52 -> https:// https://www.youtube.com/watch?v=5oVnzni512A
+25-dec-2017 02:00:53 -> succesfully added 'EDM PARTY MIX - New Electro House & Bigroom Music 2017 - YouTube' to the queue!
+25-dec-2017 02:00:54 -> https:// https://www.youtube.com/watch?v=5oVnzni512A
+25-dec-2017 02:00:54 -> Now playing 'EDM PARTY MIX - New Electro House & Bigroom Music 2017 - YouTube'.
+25-dec-2017 03:57:46 -> 253652783645982722 in hey
+25-dec-2017 03:57:50 -> 253652783645982722 in hey
+25-dec-2017 11:06:04 -> Pong!
+25-dec-2017 11:06:06 -> Pong2!
+26-dec-2017 12:00:16 -> https:// https://www.youtube.com/watch?v=5oVnzni512A
+26-dec-2017 12:00:16 -> succesfully added 'EDM PARTY MIX - New Electro House & Bigroom Music 2017 - YouTube' to the queue!
+26-dec-2017 12:00:17 -> https:// https://www.youtube.com/watch?v=5oVnzni512A
+26-dec-2017 12:00:18 -> Now playing 'EDM PARTY MIX - New Electro House & Bigroom Music 2017 - YouTube'.
+26-dec-2017 12:02:31 -> https:// https://www.youtube.com/watch?v=5oVnzni512A
+26-dec-2017 12:02:31 -> Now playing 'EDM PARTY MIX - New Electro House & Bigroom Music 2017 - YouTube'.
+26-dec-2017 12:02:48 -> https:// https://www.youtube.com/watch?v=5oVnzni512A
+26-dec-2017 12:02:48 -> succesfully added 'EDM PARTY MIX - New Electro House & Bigroom Music 2017 - YouTube' to the queue!
+27-dec-2017 07:53:24 (//MoveNext)-> Ik ben al verbonden in deze server! :)
+27-dec-2017 07:59:29 (//MoveNext)-> Ik ben niet verbonden in deze server!
+27-dec-2017 08:26:00 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 08:26:15 (//MoveNext)-> https:// https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:26:16 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+27-dec-2017 08:26:16 (//MoveNext)-> https:// https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:26:16 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+27-dec-2017 08:26:17 (//MoveNext)-> Er staat geen muziek meer in de queue!
+27-dec-2017 08:26:39 (//MoveNext)-> Error: URL is not a valid YouTube URL!
+27-dec-2017 08:26:57 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 08:27:10 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:27:10 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+27-dec-2017 08:27:11 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:27:11 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+27-dec-2017 08:27:11 (//MoveNext)-> Er staat geen muziek meer in de queue!
+27-dec-2017 08:29:20 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 08:29:33 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:29:33 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+27-dec-2017 08:29:35 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:29:35 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+27-dec-2017 08:29:35 (//MoveNext)-> Er staat geen muziek meer in de queue!
+27-dec-2017 08:30:28 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 08:30:57 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:30:57 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+27-dec-2017 08:30:58 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:30:58 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+27-dec-2017 08:30:58 (//MoveNext)-> Er staat geen muziek meer in de queue!
+27-dec-2017 08:31:15 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 08:31:30 (//MoveNext)-> https://www.youtube.com/watch?v=aLibWXsYqO0
+27-dec-2017 08:31:31 (//MoveNext)-> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+27-dec-2017 08:31:49 (//MoveNext)-> https://www.youtube.com/watch?v=aLibWXsYqO0
+27-dec-2017 08:31:49 (//MoveNext)-> succesfully added 'Bars and Melody - Thousand Years - YouTube' to the queue!
+27-dec-2017 08:31:50 (//MoveNext)-> https://www.youtube.com/watch?v=aLibWXsYqO0
+27-dec-2017 08:31:50 (//MoveNext)-> Now playing 'Bars and Melody - Thousand Years - YouTube'.
+27-dec-2017 08:32:24 (//MoveNext)-> https://www.youtube.com/watch?v=aLibWXsYqO0
+27-dec-2017 08:32:24 (//MoveNext)-> Now playing 'Bars and Melody - Thousand Years - YouTube'.
+27-dec-2017 08:32:24 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 08:32:34 (//MoveNext)-> Er staat geen muziek meer in de queue!
+27-dec-2017 08:43:45 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 08:56:01 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 08:56:22 (//MoveNext)-> Error: Het systeem kan het opgegeven bestand niet vinden
+27-dec-2017 08:56:48 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 08:57:10 (//MoveNext)-> Error: Het systeem kan het opgegeven bestand niet vinden
+27-dec-2017 08:57:33 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 08:58:07 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:58:07 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+27-dec-2017 08:58:08 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:58:08 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+27-dec-2017 08:58:09 (//MoveNext)-> Er staat geen muziek meer in de queue!
+27-dec-2017 09:00:03 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 09:00:18 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:00:18 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+27-dec-2017 09:00:19 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:00:20 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+27-dec-2017 09:00:20 (//MoveNext)-> Er staat geen muziek meer in de queue!
+27-dec-2017 09:04:20 (//MoveNext)-> Error: URL is not a valid YouTube URL!
+27-dec-2017 09:04:29 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 09:04:43 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:04:43 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+27-dec-2017 09:04:45 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:04:45 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+27-dec-2017 09:04:45 (//MoveNext)-> Er staat geen muziek meer in de queue!
+27-dec-2017 09:05:27 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 09:05:41 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:05:41 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+27-dec-2017 09:05:43 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:05:43 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+27-dec-2017 09:05:43 (//MoveNext)-> Er staat geen muziek meer in de queue!
+27-dec-2017 09:06:34 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 09:11:47 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 09:14:07 (//MoveNext)-> Ik ben bezig om je video te downloaden! Daarna start ik automatisch!
+27-dec-2017 09:15:18 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:15:18 (//MoveNext)-> succesfully added 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube' to the queue!
+27-dec-2017 09:15:19 (//MoveNext)-> https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:15:20 (//MoveNext)-> Now playing 'Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube'.
+27-dec-2017 09:56:13 (//MoveNext)-> Er staat geen muziek meer in de queue!
+27-dec-2017 11:16:36 (//MoveNext)-> Ik ben niet verbonden in deze server!
+=======
+>>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)

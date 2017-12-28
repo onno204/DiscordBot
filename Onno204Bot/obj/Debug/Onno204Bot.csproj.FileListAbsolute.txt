@@ -21,6 +21,22 @@ A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\DSharpPlus.Voic
 A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\DSharpPlus.Interactivity.dll
 A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\DSharpPlus.Interactivity.xml
 A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\NAudio.dll
+<<<<<<< HEAD
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\MediaToolkit.dll
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\libvideo.dll
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\DSharpPlus.xml
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\DSharpPlus.CommandsNext.xml
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\DSharpPlus.Interactivity.xml
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\DSharpPlus.VoiceNext.xml
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\NAudio.xml
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Newtonsoft.Json.xml
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Microsoft.Threading.Tasks.dll
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Microsoft.Threading.Tasks.xml
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+=======
 A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\NAudio.Vorbis.dll
 A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\NVorbis.dll
 A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\NAudio.xml
@@ -28,3 +44,4 @@ A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\NAudio.Vorbis.x
 A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\NVorbis.xml
 A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\MediaToolkit.dll
 A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\libvideo.dll
+>>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)

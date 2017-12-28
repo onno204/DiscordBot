@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -20,7 +21,11 @@ namespace Onno204Bot
         public static void Log(String Text, LogType LT)
         {
             if (!Directory.Exists(Config.LogDir)) { Directory.CreateDirectory(Config.LogDir); }
-            Text = DateTime.Now.ToString("dd-MMM-yyyy hh:mm:ss tt") + "-> " + Text;
+            // Get call stack
+            StackTrace stackTrace = new StackTrace();
+            String MethodName = stackTrace.GetFrame(1).GetMethod().Name;
+            String FileName = stackTrace.GetFrame(1).GetFileName();
+            Text = DateTime.Now.ToString("dd-MMM-yyyy hh:mm:ss tt") + "("+FileName+"//"+MethodName+")-> " + Text;
             if (LT == LogType.Chat) {//Chat Log
                 Log("Chat ||| " + Text, LogType.Console);
                 WriteToFile(Config.LogDir + "ChatLog.txt", Text);
@@ -143,6 +148,27 @@ namespace Onno204Bot
         public static string GetWordAt(String Text, int At) {
             return Text.Split(' ')[At-1];
         }
+
+
+        /// <summary>
+        /// Removes Special chracaters from a string
+        /// </summary>
+        /// <param name="str">Input string</param>
+        /// <returns>Output String</returns>
+        public static string RemoveSpecialCharacters(string str)
+        {
+            StringBuilder sb = new StringBuilder();
+            foreach (char c in str)
+            {
+                if ((c >= '0' && c <= '9') || (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z') || c == '.' || c == '_' || c == ' ')
+                {
+                    sb.Append(c);
+                }
+            }
+            return sb.ToString();
+        }
+
+
 
 
     }

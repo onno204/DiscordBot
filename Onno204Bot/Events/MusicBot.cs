@@ -102,7 +102,11 @@ namespace Onno204Bot.Events
             return EndS;
         }
         public static String CreatePathFromVid(Video vid) {
+<<<<<<< HEAD
+            return Config.VideoDir + Utils.RemoveSpecialCharacters(vid.FullName) + ".mp3";
+=======
             return @Directory.GetCurrentDirectory() + "\\Bot\\" + vid.Title + ".mp3";
+>>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
         }
         public static async Task Play(CommandContext ctx, bool Next = false) {
 

@@ -174,3 +174,1289 @@ Unauthorized: 403
    bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
    bij Onno204Bot.Events.Commands.<TryDelete>d__14.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 250
 Unauthorized: 403
+<<<<<<< HEAD
+13-dec-2017 10:59:52 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 10:59:55 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:00:06 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:00:10 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:00:40 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:00:58 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:01:02 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:01:10 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:03:34 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:03:37 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:04:31 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:04:35 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:07:09 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:07:13 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:10:00 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:10:40 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:11:08 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:11:48 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:14:45 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:14:54 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:15:56 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:16:52 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:16:56 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+13-dec-2017 11:17:03 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:17:06 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:17:08 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:17:14 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:17:23 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:17:26 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:17:29 -> Error, De index ligt buiten de matrixgrenzen.
+13-dec-2017 11:17:36 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+18-dec-2017 01:14:24 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+18-dec-2017 01:14:34 -> Error, De index ligt buiten de matrixgrenzen.
+18-dec-2017 01:14:40 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 01:21:16 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 01:25:20 -> Error, De index ligt buiten de matrixgrenzen.
+20-dec-2017 01:25:26 -> Error, De index ligt buiten de matrixgrenzen.
+20-dec-2017 01:26:02 -> Error, De index ligt buiten de matrixgrenzen.
+20-dec-2017 02:39:39 -> Error, De index ligt buiten de matrixgrenzen.
+20-dec-2017 02:39:45 -> Error, De index ligt buiten de matrixgrenzen.
+20-dec-2017 02:39:51 -> Error, De index ligt buiten de matrixgrenzen.
+20-dec-2017 02:39:55 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 02:40:03 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 02:51:54 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:51:54 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:51:54 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:51:56 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:51:57 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:51:57 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:51:59 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:51:59 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:51:59 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:01 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:01 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:01 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:04 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:04 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:04 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:05 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:05 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:06 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:08 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:08 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:08 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:10 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:10 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:10 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:13 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:17 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:17 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:19 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:19 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:19 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:20 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:20 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:20 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:22 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:23 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:23 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:34 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:35 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:35 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:36 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:36 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:36 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:38 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:39 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:39 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:40 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:40 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:40 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:42 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:42 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:43 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:45 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:45 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:45 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:47 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:47 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:48 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:50 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:50 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:50 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:51 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:51 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:52 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:54 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:54 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:54 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:55 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:55 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:55 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:58 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:58 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:58 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:59 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:59 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:52:59 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:02 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:02 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:02 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:03 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:03 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:03 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:06 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:06 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:06 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:06 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:07 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:07 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:07 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:07 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:07 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:07 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:07 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:08 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:08 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:08 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:08 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:08 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:08 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 02:53:09 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__15.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 240
+Not found: 404
+20-dec-2017 03:14:46 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 03:14:46 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 03:14:46 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 03:14:46 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 03:14:46 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 03:14:46 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 03:14:46 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 03:14:46 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 03:14:46 -> Error, De objectverwijzing is niet op een exemplaar van een object ingesteld.
+20-dec-2017 03:16:31 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 196
+20-dec-2017 03:16:31 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 196
+20-dec-2017 03:16:31 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 196
+20-dec-2017 03:16:31 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 196
+20-dec-2017 03:16:31 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 196
+20-dec-2017 03:16:31 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 196
+20-dec-2017 03:16:31 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 196
+20-dec-2017 03:16:31 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 196
+20-dec-2017 03:16:31 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 196
+20-dec-2017 08:06:53 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 236
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 214
+The connection is not initialized
+20-dec-2017 08:55:06 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 218
+The connection is not initialized
+20-dec-2017 08:55:24 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 218
+The connection is not initialized
+20-dec-2017 08:57:26 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:26 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:26 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:28 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:28 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__15.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 258
+Not found: 404
+20-dec-2017 08:57:30 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:31 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:31 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:31 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:33 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__15.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 258
+Not found: 404
+20-dec-2017 08:57:36 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:36 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:36 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:37 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:38 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:38 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+20-dec-2017 08:57:38 ->    bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.Commands.<TryDelete>d__15.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 258
+Not found: 404
+20-dec-2017 09:32:04 -> Error,    bij Onno204Bot.Lib.DiscordUtils.<SendBotMessage>d__0.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DiscordUtils.cs:regel 40
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 57
+20-dec-2017 09:36:39 -> De objectverwijzing is niet op een exemplaar van een object ingesteld. -----    bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 48
+   bij Onno204Bot.Events.Commands.<Play>d__7.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 162
+20-dec-2017 09:36:44 -> De objectverwijzing is niet op een exemplaar van een object ingesteld. -----    bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 48
+   bij Onno204Bot.Events.Commands.<Play>d__7.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 162
+20-dec-2017 09:39:28 -> De objectverwijzing is niet op een exemplaar van een object ingesteld. -----    bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 48
+   bij Onno204Bot.Events.Commands.<Play>d__7.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 162
+20-dec-2017 09:39:57 -> Start kan niet worden aangeroepen voor een taak die is voltooid. -----    bij System.Threading.Tasks.Task.Start(TaskScheduler scheduler)
+   bij System.Threading.Tasks.Task.Start()
+   bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 49
+   bij Onno204Bot.Events.Commands.<Play>d__7.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 162
+20-dec-2017 09:40:31 -> Kan geen toegang krijgen tot het bestand A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\VideoURL.json omdat het wordt gebruikt door een ander proces. -----    bij System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bij System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   bij System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   bij System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   bij System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   bij System.IO.File.ReadAllText(String path)
+   bij Onno204Bot.Lib.DUtils.SetMusicURL(Video video, String URL) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUtils.cs:regel 44
+   bij Onno204Bot.Events.Commands.<Play>d__7.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 173
+20-dec-2017 09:43:58 -> Error reading JObject from JsonReader. Path '', line 0, position 0. -----    bij Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   bij Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   bij Newtonsoft.Json.Linq.JObject.Parse(String json)
+   bij Onno204Bot.Lib.DUtils.SetMusicURL(Video video, String URL) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUtils.cs:regel 44
+   bij Onno204Bot.Events.Commands.<Play>d__7.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 173
+20-dec-2017 09:45:42 -> Input file not found -----    bij MediaToolkit.Engine.FFmpegEngine(EngineParameters engineParameters)
+   bij MediaToolkit.Engine.Convert(MediaFile inputFile, MediaFile outputFile)
+   bij Onno204Bot.Events.Commands.<Play>d__7.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 170
+20-dec-2017 09:46:12 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 218
+The connection is not initialized
+20-dec-2017 09:46:43 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 218
+The connection is not initialized
+20-dec-2017 09:48:36 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 218
+The connection is not initialized
+20-dec-2017 09:48:53 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 218
+The connection is not initialized
+20-dec-2017 09:51:09 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 218
+The connection is not initialized
+20-dec-2017 09:58:09 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 09:58:09 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 09:58:09 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 09:59:48 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 241
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 219
+The connection is not initialized
+20-dec-2017 10:01:54 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:14 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:17 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:17 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:17 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:17 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:17 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:17 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:17 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:17 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:17 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:04:48 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:13:22 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:14:44 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 243
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 221
+The connection is not initialized
+20-dec-2017 10:14:53 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:14:53 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:15:29 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:15:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:15:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:15:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:15:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:15:34 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:16:18 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:16:18 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:16:18 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:16:18 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:16:18 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:16:18 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:16:18 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:16:18 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:16:18 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:16:18 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.Commands.<>c.<<CMDTest>b__8_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Commands.cs:regel 199
+20-dec-2017 10:31:56 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 243
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 221
+The connection is not initialized
+20-dec-2017 10:32:05 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 243
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 221
+The connection is not initialized
+20-dec-2017 10:36:15 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:15 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:16 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:16 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:16 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:16 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:16 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:16 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:16 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+20-dec-2017 10:36:38 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+21-dec-2017 11:13:53 -> Error, De index ligt buiten de matrixgrenzen.
+21-dec-2017 11:14:31 -> Error,    bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 44
+21-dec-2017 11:15:07 -> Error,    bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 44
+21-dec-2017 11:15:15 -> Error,    bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 44
+21-dec-2017 11:16:49 -> Error,    bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 45
+24-dec-2017 01:42:01 -> Remote Error:1ID, Msg: Error reading JObject from JsonReader. Path '', line 0, position 0.
+24-dec-2017 01:42:58 -> Remote Error:1ID, Msg:    bij Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   bij Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   bij Newtonsoft.Json.Linq.JObject.Parse(String json)
+   bij Onno204Bot.Remote.Remote.<Start>d__1.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 27
+24-dec-2017 01:44:49 -> Remote Error:1ID, Msg:    bij Onno204Bot.Remote.Remote.<Start>d__1.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 30
+24-dec-2017 02:08:14 -> Error,    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:08:34 -> Remote Error:2ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:08:34 -> Remote Error:4ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:08:34 -> Remote Error:1ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:08:34 -> Remote Error:3ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:08:35 -> Remote Error:5ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:08:35 -> Remote Error:9ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:08:35 -> Remote Error:7ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:08:35 -> Remote Error:6ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:08:36 -> Remote Error:8ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:09:04 -> Error,    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:09:05 -> Remote Error:3ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:09:05 -> Remote Error:1ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:09:05 -> Remote Error:4ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:09:05 -> Remote Error:2ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:09:06 -> Remote Error:6ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:09:06 -> Remote Error:5ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:09:06 -> Remote Error:8ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:09:06 -> Remote Error:7ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:09:07 -> Remote Error:9ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:10:41 -> Error,    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:10:42 -> Remote Error:1ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:10:42 -> Remote Error:3ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:10:42 -> Remote Error:2ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:10:42 -> Remote Error:4ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:10:43 -> Remote Error:5ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:10:43 -> Remote Error:7ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:10:43 -> Remote Error:6ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:10:43 -> Remote Error:9ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:10:44 -> Remote Error:8ID, Msg:    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 57
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:12:50 -> Error,    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:12:54 -> Remote Error:1ID, Msg:    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:12:54 -> Remote Error:3ID, Msg:    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:12:55 -> Remote Error:2ID, Msg:    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:12:55 -> Remote Error:4ID, Msg:    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:12:56 -> Remote Error:7ID, Msg:    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:12:56 -> Remote Error:9ID, Msg:    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:12:56 -> Remote Error:8ID, Msg:    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:12:56 -> Remote Error:5ID, Msg:    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:12:56 -> Remote Error:6ID, Msg:    bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:16:58 -> Error,    bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 63
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:18:16 -> Error,    bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 63
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:19:46 -> Error,    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 63
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:20:04 -> Error,    bij System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   bij System.Threading.Tasks.Task.RunSynchronously()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 63
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:20:17 -> Error,    bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 63
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:21:20 -> Error,    bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 67
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:21:58 -> Error,    bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 67
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:22:48 -> Error,    bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 67
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:23:18 -> Error,    bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 67
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:24:20 -> Error,De objectverwijzing is niet op een exemplaar van een object ingesteld.<:>   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 63
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:25:58 -> Error,De objectverwijzing is niet op een exemplaar van een object ingesteld.<:>   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 63
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args, VoiceNextClient VNC, Int32 RemoteInt) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Events.Events.<>c.<<RegisterEvent>b__0_1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\Events.cs:regel 48
+24-dec-2017 02:53:58 -> Remote Error:1ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:53:58 -> Remote Error:4ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:53:58 -> Remote Error:3ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:53:58 -> Remote Error:2ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:53:58 -> Remote Error:5ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:53:58 -> Remote Error:6ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:53:59 -> Remote Error:7ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:53:59 -> Remote Error:8ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:53:59 -> Remote Error:9ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:56:15 -> Remote Error:4ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:56:15 -> Remote Error:3ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:56:15 -> Remote Error:1ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:56:16 -> Remote Error:2ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:56:16 -> Remote Error:5ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:56:16 -> Remote Error:6ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:56:16 -> Remote Error:7ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:56:16 -> Remote Error:8ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:56:17 -> Remote Error:9ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:01 -> Remote Error:1ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:01 -> Remote Error:5ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:01 -> Remote Error:3ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:02 -> Remote Error:2ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:02 -> Remote Error:4ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:02 -> Remote Error:7ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:02 -> Remote Error:6ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:02 -> Remote Error:8ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:02 -> Remote Error:9ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bij System.Threading.Tasks.Task`1.get_Result()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:48 -> Remote Error:1ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:49 -> Remote Error:2ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:49 -> Remote Error:3ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:49 -> Remote Error:4ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:49 -> Remote Error:5ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:49 -> Remote Error:6ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:50 -> Remote Error:7ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:50 -> Remote Error:8ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 02:58:50 -> Remote Error:9ID, Msg: Er zijn één of meer fouten opgetreden.<:>   bij System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bij System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   bij System.Threading.Tasks.Task.Wait()
+   bij Onno204Bot.Lib.DUser.Setup(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+   bij Onno204Bot.Lib.DUser..ctor(UInt64 TextChannelID, UInt64 VoiceChannelID, UInt64 DMember, String command, String[] Arg, String Args) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 56
+   bij Onno204Bot.Remote.Remote.<>c__DisplayClass1_0.<Start>b__0() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 50
+24-dec-2017 03:38:24 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 262
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+The connection is not initialized
+24-dec-2017 11:02:18 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 262
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+The connection is not initialized
+24-dec-2017 11:19:32 -> Remote Error:1ID, Msg:    bij System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   bij System.Number.ParseUInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.UInt64.Parse(String s)
+   bij Onno204Bot.Remote.Remote.<Start>d__1.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 32
+24-dec-2017 11:19:43 -> Remote Error:1ID, Msg:    bij System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   bij System.Number.ParseUInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.UInt64.Parse(String s)
+   bij Onno204Bot.Remote.Remote.<Start>d__1.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 32
+24-dec-2017 11:19:53 -> Remote Error:1ID, Msg:    bij System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   bij System.Number.ParseUInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.UInt64.Parse(String s)
+   bij Onno204Bot.Remote.Remote.<Start>d__1.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 32
+24-dec-2017 11:22:47 -> Remote Error:1ID, Msg:    bij System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   bij System.Number.ParseUInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.UInt64.Parse(String s)
+   bij Onno204Bot.Remote.Remote.<Start>d__1.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 32
+24-dec-2017 11:22:57 -> Remote Error:1ID, Msg:    bij System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   bij System.Number.ParseUInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.UInt64.Parse(String s)
+   bij Onno204Bot.Remote.Remote.<Start>d__1.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 32
+24-dec-2017 11:23:08 -> Remote Error:1ID, Msg:    bij System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   bij System.Number.ParseUInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.UInt64.Parse(String s)
+   bij Onno204Bot.Remote.Remote.<Start>d__1.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 32
+24-dec-2017 11:23:18 -> Remote Error:1ID, Msg:    bij System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   bij System.Number.ParseUInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.UInt64.Parse(String s)
+   bij Onno204Bot.Remote.Remote.<Start>d__1.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\Remote.cs:regel 32
+24-dec-2017 11:41:06 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 262
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+The connection is not initialized
+24-dec-2017 11:45:18 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 262
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+The connection is not initialized
+24-dec-2017 11:45:39 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:45:39 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:45:39 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:45:39 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:45:39 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:45:39 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:45:39 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:45:39 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:45:39 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:51:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:51:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:51:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:51:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:51:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:51:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:51:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:51:30 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:51:31 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:55:57 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 262
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+The connection is not initialized
+24-dec-2017 11:56:57 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:56:57 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:56:57 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:56:57 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:56:57 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:56:57 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:56:57 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:56:57 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:56:57 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+24-dec-2017 11:59:52 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 262
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__21.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 240
+The connection is not initialized
+25-dec-2017 12:00:07 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:00:07 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:00:07 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:00:07 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:00:07 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:00:07 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:00:07 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:00:07 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:00:07 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:02:27 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:02:27 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:02:27 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:02:27 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:02:27 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:02:27 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:02:27 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:02:27 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:02:27 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:05:45 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:06:08 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:06:08 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:06:08 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:06:08 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:06:08 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:06:08 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:06:08 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:06:08 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:06:08 -> Error(De objectverwijzing is niet op een exemplaar van een object ingesteld.),    bij Onno204Bot.Events.MusicBot.<>c__DisplayClass21_0.<<VoiceStream>b__1>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 184
+25-dec-2017 12:23:22 ->    bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendSpeakingAsync>d__159.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bij DSharpPlus.VoiceNext.VoiceNextConnection.<SendAsync>d__157.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__23.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 280
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 254
+The connection is not initialized
+25-dec-2017 01:00:43 ->    bij Onno204Bot.Lib.DUtils.GetAmountInVoice(DiscordChannel VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUtils.cs:regel 58
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__23.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 275
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 254
+De objectverwijzing is niet op een exemplaar van een object ingesteld.
+25-dec-2017 01:04:33 -> File `A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\BEST OF EDM - Electro House Music | Mega Festival Mix 2017 - YouTube.mp3` does not exist.
+25-dec-2017 01:04:35 -> File `A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\BEST OF EDM - Electro House Music | Mega Festival Mix 2017 - YouTube.mp3` does not exist.
+25-dec-2017 01:09:43 ->    bij Onno204Bot.Lib.DUtils.GetAmountInVoice(DiscordChannel VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUtils.cs:regel 58
+   bij Onno204Bot.Events.MusicBot.<SendVoiceData>d__23.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 275
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bij Onno204Bot.Events.MusicBot.<VoiceStream>d__22.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\MusicBot.cs:regel 254
+De objectverwijzing is niet op een exemplaar van een object ingesteld.
+25-dec-2017 11:05:53 -> De objectverwijzing is niet op een exemplaar van een object ingesteld.:   bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+25-dec-2017 11:06:05 -> De objectverwijzing is niet op een exemplaar van een object ingesteld.:   bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+25-dec-2017 11:06:17 -> De objectverwijzing is niet op een exemplaar van een object ingesteld.:   bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+25-dec-2017 11:06:58 -> De objectverwijzing is niet op een exemplaar van een object ingesteld.:   bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+25-dec-2017 11:07:22 -> De objectverwijzing is niet op een exemplaar van een object ingesteld.:   bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+25-dec-2017 11:08:25 -> De objectverwijzing is niet op een exemplaar van een object ingesteld.:   bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+25-dec-2017 11:08:29 -> De objectverwijzing is niet op een exemplaar van een object ingesteld.:   bij Onno204Bot.Remote.RemoteUpdateInfo.<Update>d__0.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\RemoteUpdateInfo.cs:regel 36
+25-dec-2017 11:53:28 -> De objectverwijzing is niet op een exemplaar van een object ingesteld.:   bij Onno204Bot.Lib.DUser..ctor(CommandContext ctx, Boolean FullSetup, UInt64 VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\DUser.cs:regel 62
+25-dec-2017 11:53:28 -> De objectverwijzing is niet op een exemplaar van een object ingesteld.:   bij Onno204Bot.Remote.RemoteUpdateInfo.<Update>d__0.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Remote\RemoteUpdateInfo.cs:regel 36
+26-dec-2017 12:00:13 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+26-dec-2017 12:00:16 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+26-dec-2017 12:00:46 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+26-dec-2017 12:00:52 -> Error,    bij Onno204Bot.Program.<>c.<<SetupEvents>b__7_0>d.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Program.cs:regel 54
+27-dec-2017 07:52:03 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 39
+27-dec-2017 07:53:11 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 39
+27-dec-2017 07:53:33 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 39
+27-dec-2017 07:59:38 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+27-dec-2017 07:59:38 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+27-dec-2017 08:02:13 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+253652783645982722 in 
+27-dec-2017 08:02:13 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+379751079203700742 in 373101876331413504
+27-dec-2017 08:03:13 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+253652783645982722 in 
+27-dec-2017 08:03:13 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+379751079203700742 in 373101876331413504
+27-dec-2017 08:03:25 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+253652783645982722 in 373101876331413504
+27-dec-2017 08:03:25 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+379751079203700742 in 373101876331413504
+27-dec-2017 08:03:35 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+253652783645982722 in 373101876331413504
+27-dec-2017 08:03:35 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+379751079203700742 in 373101876331413504
+27-dec-2017 08:03:44 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo.GetAmountInVoice(DiscordChannel VoiceChn) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 56
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 28
+27-dec-2017 08:15:16 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+253652783645982722 in 
+27-dec-2017 08:15:16 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 40
+379751079203700742 in 373101876331413504
+27-dec-2017 08:16:10 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 42
+253652783645982722 in 
+27-dec-2017 08:16:10 (//.ctor)-> De objectverwijzing is niet op een exemplaar van een object ingesteld.//
+   bij Onno204Bot.Lib.VoiceChannelInfo..ctor(DiscordChannel VoiceChnl) in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Lib\Constructors.cs:regel 42
+379751079203700742 in 373101876331413504
+27-dec-2017 08:26:17 (//MoveNext)-> File `A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube.mp3` does not exist.
+27-dec-2017 08:26:39 (//MoveNext)-> URL is not a valid YouTube URL! -----    bij VideoLibrary.YouTube.<GetAllVideosAsync>d__4.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   bij VideoLibrary.ServiceBase`1.<GetVideoAsync>d__6.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   bij VideoLibrary.ServiceBase`1.<GetVideoAsync>d__5.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   bij VideoLibrary.ServiceBase`1.GetVideo(String videoUri)
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 144
+27-dec-2017 08:27:11 (//MoveNext)-> File `A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube.mp3` does not exist.
+27-dec-2017 08:29:35 (//MoveNext)-> File `A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube.mp3` does not exist.
+27-dec-2017 08:30:58 (//MoveNext)-> File `A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\Christmas Music Mix 🎅 Best Trap - Dubstep - EDM 🎅 Merry Christmas 2017 | Happy New Year 2018 - YouTube.mp3` does not exist.
+27-dec-2017 08:56:22 (//MoveNext)-> Het systeem kan het opgegeven bestand niet vinden -----    bij System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   bij System.Diagnostics.Process.Start()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 166
+27-dec-2017 08:57:10 (//MoveNext)-> Het systeem kan het opgegeven bestand niet vinden -----    bij System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   bij System.Diagnostics.Process.Start()
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 166
+27-dec-2017 08:58:09 (//MoveNext)-> File `A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\Christmas Music Mix  Best Trap  Dubstep  EDM  Merry Christmas 2017 _ Happy New Year 2018  YouTube.mp4.mp3` does not exist.
+27-dec-2017 09:00:20 (//MoveNext)-> File `A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\Christmas Music Mix  Best Trap  Dubstep  EDM  Merry Christmas 2017 _ Happy New Year 2018  YouTube.mp4.mp3` does not exist.
+27-dec-2017 09:04:20 (//MoveNext)-> URL is not a valid YouTube URL! -----    bij VideoLibrary.YouTube.<GetAllVideosAsync>d__4.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   bij VideoLibrary.ServiceBase`1.<GetVideoAsync>d__6.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   bij VideoLibrary.ServiceBase`1.<GetVideoAsync>d__5.MoveNext()
+--- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+   bij System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bij System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   bij VideoLibrary.ServiceBase`1.GetVideo(String videoUri)
+   bij Onno204Bot.Events.CommandFunctions.<MusicPlay>d__6.MoveNext() in A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\Events\CommandFunctions.cs:regel 145
+27-dec-2017 09:04:45 (//MoveNext)-> File `A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\ChristmasMusicMixBestTrapDubstepEDMMerryChristmas2017_HappyNewYear2018YouTube.mp4.mp3` does not exist.
+27-dec-2017 09:05:43 (//MoveNext)-> File `A:\Projects\VisualStudio\Discord\DiscordBot\Onno204Bot\bin\Debug\Bot\ChristmasMusicMixBestTrapDubstepEDMMerryChristmas2017_HappyNewYear2018YouTube.mp4.mp3` does not exist.
+=======
+>>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)

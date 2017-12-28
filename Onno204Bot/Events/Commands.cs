@@ -7,6 +7,7 @@ using MediaToolkit;
 using MediaToolkit.Model;
 using NAudio.CoreAudioApi;
 using NAudio.Wave;
+using Onno204Bot.Cfg;
 using Onno204Bot.Lib;
 using System;
 using System.Collections.Generic;
@@ -161,6 +162,19 @@ namespace Onno204Bot.Events
         {
             if(!YoutubeURL.ToLower().StartsWith("http://")){ YoutubeURL = "https://"+YoutubeURL; }
 
+<<<<<<< HEAD
+        [Command("test2"), Description("TestCommand!")]
+        public async Task CMDTest(CommandContext ctx)
+        {
+            DUser duser = new DUser(ctx, true);
+            await DiscordUtils.SendBotMessage(ctx.Member.VoiceState.ToString() + "hey", new DUser(ctx, true));
+            await Remote.Remote.Start();
+        }
+
+        [Command("remote"), Description("Start remote Control!"), Aliases("webcommands", "startremote")]
+        public async Task CMDRemote(CommandContext ctx) {
+=======
+>>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
             await TryDelete(ctx);
             string filename = "";
             Video vid = null;
@@ -195,6 +209,12 @@ namespace Onno204Bot.Events
                 MusicBot.AddToQueue(vid);
                 await DiscordUtils.SendBotMessage(Utils.Replace(Messages.AudioMusicAddedToQueue, "~1", vid.Title), ctx.Message.Channel, user: ctx.User);
             await MusicBot.Play(ctx);
+        }
+        [Command("remoteupdate"), Description("Update Remote info!")]
+        public async Task CMDUpdateRemote(CommandContext ctx) {
+            if (GetSetItems.LastDUser == null) { new DUser(ctx, true); }
+            await TryDelete(ctx);
+            await Remote.RemoteUpdateInfo.Update();
         }
 
         [Command("queue"), Description("Shows the current queue."), Aliases("songs", "playlist")]

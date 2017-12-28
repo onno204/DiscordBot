@@ -51,14 +51,22 @@ namespace Onno204Bot
                     if (e.Message.Content.StartsWith(Config.CommandString)) { return; }
                     String Message = e.Message.Author.Username+"#"+e.Message.Author.Discriminator + ": " + e.Message.Timestamp + ", " + e.Message.Content;
                     Utils.Log(Message, LogType.DeletedMessages);
+<<<<<<< HEAD
+                    await DiscordUtils.SendBotMessage(Utils.Replace(Utils.Replace(Messages.MessageDeleted, "~2", e.Message.Content), "~1", e.Message.Author.Mention), new DUser(e.Channel.Id, 0, e.Guild.Id, e.Client.CurrentUser.Id));
+=======
                     await DiscordUtils.SendBotMessage(Utils.Replace(Utils.Replace(Messages.MessageDeleted, "~2", e.Message.Content), "~1", e.Message.Author.Mention), e.Channel);
+>>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
                 }
                 catch (Exception ee) {
                     Utils.Log("Error, " + ee.Message, LogType.Error);
                 }
             };
             discord.DmChannelCreated += async e => {
+<<<<<<< HEAD
+                //await DiscordUtils.SendBotMessage(Messages.NewDMCreated, new DUser(e.Channel.Id, 0, e.Client.CurrentUser.Id));
+=======
                 await DiscordUtils.SendBotMessage(Messages.NewDMCreated, e.Channel);
+>>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
             };
             
             /*
@@ -252,11 +260,16 @@ namespace Onno204Bot
             discord = new DiscordClient(new DiscordConfiguration
             {
                 Token = DiscordLoginUtils.GetDiscordToken(),
+<<<<<<< HEAD
+                //Token = "Mzc5NzUxMDc5MjAzNzAwNzQy.DSV7Dg.z7EPbdWvDPIgTJubhMRHGtoaqoU",
+=======
                 //Token = "Mzc5NzUxMDc5MjAzNzAwN1z2Qy.DO-632Q.242hCMjJe1WKb32tulLsdgsf1lJk",
+>>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
                 TokenType = TokenType.User,
                 LogLevel = LogLevel.Debug,
                 UseInternalLogHandler = true
             });
+            
             await WaitReceiveToken();
             Utils.Log("Received token.", LogType.Console);
             

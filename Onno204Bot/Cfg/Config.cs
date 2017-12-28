@@ -27,7 +27,13 @@ namespace Onno204Bot
         public static bool NoChatOutput = true;
 
         //Log
+<<<<<<< HEAD
+        public static string LogDir = @Directory.GetCurrentDirectory() + "\\Logs\\";
+        public static string VideoDir = @Directory.GetCurrentDirectory() + "\\Bot\\";
+        public static string SaveFiles = @Directory.GetCurrentDirectory() + "\\Saves\\";
+=======
         public static string LogDir = Directory.GetCurrentDirectory() + "\\Logs\\";
+>>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
 
         //Misc
         //public static String BlaclistedServers = "Prio1Gaming,Prio2Gaming";

@@ -1,2 +1,301 @@
 20-nov-2017 05:01:59 -> 20-11-2017 17:01:59 Command: onno204, ::echo test
 20-nov-2017 05:01:59 -> 20-11-2017 17:01:59 Command: onno204, ::echo test
+<<<<<<< HEAD
+23-nov-2017 08:48:31 -> 23-11-2017 20:48:31 Command: onno204, ::echo test
+23-nov-2017 08:51:17 -> 23-11-2017 20:51:17 Command: onno204, ::echo te
+23-nov-2017 08:51:22 -> 23-11-2017 20:51:22 Command: onno204, ::play d
+23-nov-2017 08:51:55 -> 23-11-2017 20:51:55 Command: onno204, ::next
+13-dec-2017 10:59:52 -> 13-12-2017 22:59:52 Command: onno204, ::help
+13-dec-2017 10:59:56 -> 13-12-2017 22:59:56 Command: onno204, ::ping
+13-dec-2017 11:00:06 -> 13-12-2017 23:00:06 Command: onno204, ::join
+13-dec-2017 11:00:10 -> 13-12-2017 23:00:10 Command: onno204, ::leave
+13-dec-2017 11:00:50 -> 13-12-2017 23:00:50 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:00:58 -> 13-12-2017 23:00:58 Command: onno204, ::leave
+13-dec-2017 11:01:03 -> 13-12-2017 23:01:03 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:01:11 -> 13-12-2017 23:01:11 Command: onno204, ::leave
+13-dec-2017 11:03:35 -> 13-12-2017 23:03:35 Command: onno204, ::join
+13-dec-2017 11:03:38 -> 13-12-2017 23:03:38 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:04:32 -> 13-12-2017 23:04:32 Command: onno204, ::join
+13-dec-2017 11:04:36 -> 13-12-2017 23:04:36 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:07:15 -> 13-12-2017 23:07:15 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:10:01 -> 13-12-2017 23:10:01 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:10:42 -> 13-12-2017 23:10:42 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:11:09 -> 13-12-2017 23:11:09 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:11:50 -> 13-12-2017 23:11:50 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:14:47 -> 13-12-2017 23:14:47 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:14:55 -> 13-12-2017 23:14:55 Command: onno204, ::leave
+13-dec-2017 11:15:57 -> 13-12-2017 23:15:57 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:16:57 -> 13-12-2017 23:16:57 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+13-dec-2017 11:17:08 -> 13-12-2017 23:17:08 Command: onno204, ::help
+13-dec-2017 11:17:14 -> 13-12-2017 23:17:14 Command: onno204, ::remove
+13-dec-2017 11:17:24 -> 13-12-2017 23:17:24 Command: onno204, ::join
+13-dec-2017 11:17:26 -> 13-12-2017 23:17:26 Command: onno204, ::leave
+13-dec-2017 11:17:30 -> 13-12-2017 23:17:30 Command: onno204, ::join
+13-dec-2017 11:17:37 -> 13-12-2017 23:17:37 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+18-dec-2017 01:14:35 -> 18-12-2017 13:14:35 Command: onno204, ::join
+18-dec-2017 01:14:41 -> 18-12-2017 13:14:41 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 01:23:48 -> 20-12-2017 13:23:48 Command: onno204, ::play https://www.youtube.com/watch?v=6CigQPn9jPc
+20-dec-2017 01:25:26 -> 20-12-2017 13:25:26 Command: onno204, ::skip
+20-dec-2017 01:26:03 -> 20-12-2017 13:26:03 Command: onno204, ::leave
+20-dec-2017 02:39:39 -> 20-12-2017 14:39:39 Command: onno204, ::ping
+20-dec-2017 02:39:56 -> 20-12-2017 14:39:56 Command: onno204, ::echo tes
+20-dec-2017 02:40:03 -> 20-12-2017 14:40:03 Command: onno204, ::echo test
+20-dec-2017 02:44:11 -> 20-12-2017 14:44:11 Command: onno204, ::echo test
+20-dec-2017 02:44:49 -> 20-12-2017 14:44:49 Command: onno204, ::echo test
+20-dec-2017 02:47:49 -> 20-12-2017 14:47:49 Command: onno204, ::join
+20-dec-2017 02:48:14 -> 20-12-2017 14:48:14 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 02:52:09 -> 20-12-2017 14:52:09 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 02:53:09 -> 20-12-2017 14:53:09 Command: onno204, ::purge 100
+20-dec-2017 02:53:34 -> 20-12-2017 14:53:34 Command: onno204, ::play https://www.youtube.com/watch?v=aLibWXsYqO0
+20-dec-2017 02:54:11 -> 20-12-2017 14:54:11 Command: onno204, ::howlong
+20-dec-2017 02:54:19 -> 20-12-2017 14:54:19 Command: onno204, ::howlong
+20-dec-2017 03:07:29 -> 20-12-2017 15:07:29 Command: onno204, ::echo 123
+20-dec-2017 03:08:34 -> 20-12-2017 15:08:34 Command: onno204, ::join
+20-dec-2017 03:08:35 -> 20-12-2017 15:08:35 Command: onno204, ::test2
+20-dec-2017 03:11:00 -> 20-12-2017 15:11:00 Command: onno204, ::join
+20-dec-2017 03:11:02 -> 20-12-2017 15:11:02 Command: onno204, ::test2
+20-dec-2017 03:14:22 -> 20-12-2017 15:14:22 Command: onno204, ::join
+20-dec-2017 03:14:23 -> 20-12-2017 15:14:23 Command: onno204, ::test2
+20-dec-2017 03:16:14 -> 20-12-2017 15:16:14 Command: onno204, ::leave
+20-dec-2017 03:16:17 -> 20-12-2017 15:16:17 Command: onno204, ::join
+20-dec-2017 03:16:18 -> 20-12-2017 15:16:18 Command: onno204, ::leave
+20-dec-2017 03:16:21 -> 20-12-2017 15:16:21 Command: onno204, ::join
+20-dec-2017 03:16:23 -> 20-12-2017 15:16:23 Command: onno204, ::test2
+20-dec-2017 03:19:37 -> 20-12-2017 15:19:37 Command: onno204, ::play play https://www.youtube.com/watch?v=aLibWXsYqO0
+20-dec-2017 08:02:44 -> 20-12-2017 20:02:44 Command: onno204, ::play https://www.youtube.com/watch?v=aLibWXsYqO0
+20-dec-2017 08:04:04 -> 20-12-2017 20:04:04 Command: onno204, ::play https://www.youtube.com/watch?v=aLibWXsYqO0
+20-dec-2017 08:06:43 -> 20-12-2017 20:06:43 Command: onno204, ::join
+20-dec-2017 08:06:47 -> 20-12-2017 20:06:47 Command: onno204, ::play https://www.youtube.com/watch?v=aLibWXsYqO0
+20-dec-2017 08:06:53 -> 20-12-2017 20:06:53 Command: onno204, ::leave
+20-dec-2017 08:07:09 -> 20-12-2017 20:07:09 Command: onno204, ::leave
+20-dec-2017 08:07:36 -> 20-12-2017 20:07:36 Command: onno204, ::play https://www.youtube.com/watch?v=aLibWXsYqO0
+20-dec-2017 08:08:14 -> 20-12-2017 20:08:14 Command: onno204, ::play 
+            await Task.Delay(-1);
+20-dec-2017 08:09:42 -> 20-12-2017 20:09:42 Command: onno204, ::join
+20-dec-2017 08:09:43 -> 20-12-2017 20:09:43 Command: onno204, ::leave
+20-dec-2017 08:09:49 -> 20-12-2017 20:09:49 Command: onno204, ::play https://www.youtube.com/watch?v=aLibWXsYqO0
+20-dec-2017 08:18:09 -> 20-12-2017 20:18:09 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 08:42:33 -> 20-12-2017 20:42:33 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 08:48:44 -> 20-12-2017 20:48:44 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 08:51:40 -> 20-12-2017 20:51:40 Command: onno204, ::play https://www.youtube.com/watch?v=aLibWXsYqO0
+20-dec-2017 08:52:44 -> 20-12-2017 20:52:44 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 08:54:21 -> 20-12-2017 20:54:21 Command: onno204, ::join
+20-dec-2017 08:54:23 -> 20-12-2017 20:54:23 Command: onno204, ::leave
+20-dec-2017 08:54:27 -> 20-12-2017 20:54:27 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 08:55:01 -> 20-12-2017 20:55:01 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 08:55:06 -> 20-12-2017 20:55:06 Command: onno204, ::leave
+20-dec-2017 08:55:11 -> 20-12-2017 20:55:11 Command: onno204, ::join
+20-dec-2017 08:55:15 -> 20-12-2017 20:55:15 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 08:55:24 -> 20-12-2017 20:55:24 Command: onno204, ::leave
+20-dec-2017 08:57:28 -> 20-12-2017 20:57:28 Command: onno204, ::purge 5
+20-dec-2017 08:57:33 -> 20-12-2017 20:57:33 Command: onno204, ::purge 5
+20-dec-2017 08:57:38 -> 20-12-2017 20:57:38 Command: onno204, ::purge 7
+20-dec-2017 08:57:44 -> 20-12-2017 20:57:44 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:04:51 -> 20-12-2017 21:04:51 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:05:10 -> 20-12-2017 21:05:10 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:31:51 -> 20-12-2017 21:31:51 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:31:53 -> 20-12-2017 21:31:53 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:33:49 -> 20-12-2017 21:33:49 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:34:36 -> 20-12-2017 21:34:36 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:35:14 -> 20-12-2017 21:35:14 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:36:39 -> 20-12-2017 21:36:39 Command: onno204, ::play ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:36:44 -> 20-12-2017 21:36:44 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:39:28 -> 20-12-2017 21:39:28 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:39:57 -> 20-12-2017 21:39:57 Command: onno204, ::play ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:40:31 -> 20-12-2017 21:40:31 Command: onno204, ::play ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:43:30 -> 20-12-2017 21:43:30 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:43:42 -> 20-12-2017 21:43:42 Command: onno204, ::leave
+20-dec-2017 09:43:58 -> 20-12-2017 21:43:58 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:45:42 -> 20-12-2017 21:45:42 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:45:43 -> 20-12-2017 21:45:43 Command: onno204, ::play ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:46:12 -> 20-12-2017 21:46:12 Command: onno204, ::leave
+20-dec-2017 09:46:29 -> 20-12-2017 21:46:29 Command: onno204, ::play ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:46:43 -> 20-12-2017 21:46:43 Command: onno204, ::leave
+20-dec-2017 09:47:41 -> 20-12-2017 21:47:41 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:48:33 -> 20-12-2017 21:48:33 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:48:37 -> 20-12-2017 21:48:37 Command: onno204, ::leave
+20-dec-2017 09:48:51 -> 20-12-2017 21:48:51 Command: onno204, ::play ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:48:53 -> 20-12-2017 21:48:53 Command: onno204, ::leave
+20-dec-2017 09:49:06 -> 20-12-2017 21:49:06 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:51:04 -> 20-12-2017 21:51:04 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:51:09 -> 20-12-2017 21:51:09 Command: onno204, ::leave
+20-dec-2017 09:51:14 -> 20-12-2017 21:51:14 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:53:34 -> 20-12-2017 21:53:34 Command: onno204, ::skip
+20-dec-2017 09:53:38 -> 20-12-2017 21:53:38 Command: onno204, ::volume 2
+20-dec-2017 09:53:42 -> 20-12-2017 21:53:42 Command: onno204, ::skip
+20-dec-2017 09:53:48 -> 20-12-2017 21:53:48 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:53:51 -> 20-12-2017 21:53:51 Command: onno204, ::queue
+20-dec-2017 09:54:04 -> 20-12-2017 21:54:04 Command: onno204, ::volume 3
+20-dec-2017 09:54:10 -> 20-12-2017 21:54:10 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:54:12 -> 20-12-2017 21:54:12 Command: onno204, ::skip
+20-dec-2017 09:54:33 -> 20-12-2017 21:54:33 Command: onno204, ::volume 1
+20-dec-2017 09:55:28 -> 20-12-2017 21:55:28 Command: onno204, ::play ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:55:30 -> 20-12-2017 21:55:30 Command: onno204, ::skip
+20-dec-2017 09:56:44 -> 20-12-2017 21:56:44 Command: onno204, ::test2
+20-dec-2017 09:57:29 -> 20-12-2017 21:57:29 Command: onno204, ::join
+20-dec-2017 09:57:29 -> 20-12-2017 21:57:29 Command: onno204, ::leave
+20-dec-2017 09:57:33 -> 20-12-2017 21:57:33 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:58:00 -> 20-12-2017 21:58:00 Command: onno204, ::test2
+20-dec-2017 09:59:40 -> 20-12-2017 21:59:40 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 09:59:48 -> 20-12-2017 21:59:48 Command: onno204, ::leave
+20-dec-2017 09:59:53 -> 20-12-2017 21:59:53 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:01:43 -> 20-12-2017 22:01:43 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:01:48 -> 20-12-2017 22:01:48 Command: onno204, ::test2
+20-dec-2017 10:02:11 -> 20-12-2017 22:02:11 Command: onno204, ::itsoke
+20-dec-2017 10:03:12 -> 20-12-2017 22:03:12 Command: onno204, ::test2
+20-dec-2017 10:03:16 -> 20-12-2017 22:03:16 Command: onno204, ::test2
+20-dec-2017 10:04:22 -> 20-12-2017 22:04:22 Command: onno204, ::itsoke
+20-dec-2017 10:04:40 -> 20-12-2017 22:04:40 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:04:53 -> 20-12-2017 22:04:53 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:13:03 -> 20-12-2017 22:13:03 Command: onno204, ::test2
+20-dec-2017 10:13:18 -> 20-12-2017 22:13:18 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:13:21 -> 20-12-2017 22:13:21 Command: onno204, ::test2
+20-dec-2017 10:14:40 -> 20-12-2017 22:14:40 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:14:44 -> 20-12-2017 22:14:44 Command: onno204, ::leave
+20-dec-2017 10:14:47 -> 20-12-2017 22:14:47 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:14:51 -> 20-12-2017 22:14:51 Command: onno204, ::test2
+20-dec-2017 10:15:03 -> 20-12-2017 22:15:03 Command: onno204, ::itsoke
+20-dec-2017 10:15:41 -> 20-12-2017 22:15:41 Command: onno204, ::itsoke
+20-dec-2017 10:16:22 -> 20-12-2017 22:16:22 Command: onno204, ::itsoke
+20-dec-2017 10:29:46 -> 20-12-2017 22:29:46 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:31:48 -> 20-12-2017 22:31:48 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:31:56 -> 20-12-2017 22:31:56 Command: onno204, ::leave
+20-dec-2017 10:31:59 -> 20-12-2017 22:31:59 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:32:05 -> 20-12-2017 22:32:05 Command: onno204, ::leave
+20-dec-2017 10:36:08 -> 20-12-2017 22:36:08 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:36:21 -> 20-12-2017 22:36:21 Command: onno204, ::itsoke
+20-dec-2017 10:36:24 -> 20-12-2017 22:36:24 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+20-dec-2017 10:36:27 -> 20-12-2017 22:36:27 Command: onno204, ::skip
+23-dec-2017 01:08:17 -> 23-12-2017 01:08:17 Command: onno204, ::play https://www.youtube.com/watch?v=WkuHLzMMTZM
+23-dec-2017 01:09:20 -> 23-12-2017 01:09:20 Command: onno204, ::play https://www.youtube.com/watch?v=WkuHLzMMTZM
+23-dec-2017 01:09:43 -> 23-12-2017 01:09:43 Command: onno204, ::play https://www.youtube.com/watch?v=WkuHLzMMTZM
+23-dec-2017 01:09:46 -> 23-12-2017 01:09:46 Command: onno204, ::next
+24-dec-2017 02:54:07 -> 24-12-2017 14:54:07 Command: onno204, ::test2
+24-dec-2017 02:56:23 -> 24-12-2017 14:56:23 Command: onno204, ::test2
+24-dec-2017 02:57:57 -> 24-12-2017 14:57:57 Command: onno204, ::test2
+24-dec-2017 02:58:58 -> 24-12-2017 14:58:58 Command: onno204, ::test2
+24-dec-2017 03:00:04 -> 24-12-2017 15:00:04 Command: onno204, ::test2
+24-dec-2017 03:02:47 -> 24-12-2017 15:02:47 Command: onno204, ::test2
+24-dec-2017 03:05:35 -> 24-12-2017 15:05:35 Command: onno204, ::test2
+24-dec-2017 03:18:26 -> 24-12-2017 15:18:26 Command: onno204, ::Test2
+24-dec-2017 03:19:48 -> 24-12-2017 15:19:48 Command: onno204, ::test2
+24-dec-2017 03:21:22 -> 24-12-2017 15:21:22 Command: onno204, ::test2
+24-dec-2017 03:22:52 -> 24-12-2017 15:22:52 Command: onno204, ::test2
+24-dec-2017 03:25:06 -> 24-12-2017 15:25:06 Command: onno204, ::test2
+24-dec-2017 03:38:24 -> 24-12-2017 15:38:24 Command: onno204, ::leave
+24-dec-2017 11:02:18 -> 24-12-2017 23:02:18 Command: onno204, ::leave
+24-dec-2017 11:29:10 -> 24-12-2017 23:29:10 Command: onno204, ::skip
+24-dec-2017 11:45:18 -> 24-12-2017 23:45:18 Command: onno204, ::leave
+24-dec-2017 11:55:57 -> 24-12-2017 23:55:57 Command: onno204, ::leave
+24-dec-2017 11:55:59 -> 24-12-2017 23:55:59 Command: onno204, ::join
+24-dec-2017 11:57:05 -> 24-12-2017 23:57:05 Command: onno204, ::itsoke
+24-dec-2017 11:59:52 -> 24-12-2017 23:59:52 Command: onno204, ::leave
+24-dec-2017 11:59:55 -> 24-12-2017 23:59:55 Command: onno204, ::continue
+25-dec-2017 12:00:42 -> 25-12-2017 00:00:42 Command: onno204, ::leave
+25-dec-2017 12:00:46 -> 25-12-2017 00:00:46 Command: onno204, ::join
+25-dec-2017 12:00:47 -> 25-12-2017 00:00:47 Command: onno204, ::leave
+25-dec-2017 12:01:45 -> 25-12-2017 00:01:45 Command: onno204, ::join
+25-dec-2017 12:01:46 -> 25-12-2017 00:01:46 Command: onno204, ::leave
+25-dec-2017 12:02:01 -> 25-12-2017 00:02:01 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:02:49 -> 25-12-2017 00:02:49 Command: onno204, ::join
+25-dec-2017 12:02:54 -> 25-12-2017 00:02:54 Command: onno204, ::join
+25-dec-2017 12:02:55 -> 25-12-2017 00:02:55 Command: onno204, ::leave
+25-dec-2017 12:03:04 -> 25-12-2017 00:03:04 Command: onno204, ::join
+25-dec-2017 12:03:08 -> 25-12-2017 00:03:08 Command: onno204, ::leave
+25-dec-2017 12:03:21 -> 25-12-2017 00:03:21 Command: onno204, ::join
+25-dec-2017 12:03:24 -> 25-12-2017 00:03:24 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:05:43 -> 25-12-2017 00:05:43 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:05:54 -> 25-12-2017 00:05:54 Command: onno204, ::itsoke
+25-dec-2017 12:08:43 -> 25-12-2017 00:08:43 Command: onno204, ::PLAY https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:09:13 -> 25-12-2017 00:09:13 Command: onno204, ::itsoke
+25-dec-2017 12:10:27 -> 25-12-2017 00:10:27 Command: onno204, ::join
+25-dec-2017 12:10:28 -> 25-12-2017 00:10:28 Command: onno204, ::leave
+25-dec-2017 12:22:19 -> 25-12-2017 00:22:19 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:23:15 -> 25-12-2017 00:23:15 Command: onno204, ::play https://www.youtube.com/watch?v=wT3RhIJZu4k
+25-dec-2017 12:23:22 -> 25-12-2017 00:23:22 Command: onno204, ::leave
+25-dec-2017 12:23:24 -> 25-12-2017 00:23:24 Command: onno204, ::continue
+25-dec-2017 12:23:36 -> 25-12-2017 00:23:36 Command: onno204, ::itsoke
+25-dec-2017 12:23:44 -> 25-12-2017 00:23:44 Command: onno204, ::itsoke
+25-dec-2017 12:24:24 -> 25-12-2017 00:24:24 Command: onno204, ::itsoke
+25-dec-2017 12:24:31 -> 25-12-2017 00:24:31 Command: onno204, ::itsoke
+25-dec-2017 12:54:56 -> 25-12-2017 00:54:56 Command: onno204, ::echo test
+25-dec-2017 12:58:29 -> 25-12-2017 00:58:29 Command: onno204, ::ping
+25-dec-2017 12:59:43 -> 25-12-2017 00:59:43 Command: onno204, ::join
+25-dec-2017 12:59:49 -> 25-12-2017 00:59:49 Command: onno204, ::leave
+25-dec-2017 11:06:06 -> 25-12-2017 23:06:06 Command: onno204, ::ping
+25-dec-2017 11:08:34 -> 25-12-2017 23:08:34 Command: onno204, ::remoteupdate
+25-dec-2017 11:53:28 -> 25-12-2017 23:53:28 Command: onno204, ::remoteupdate
+25-dec-2017 11:54:37 -> 25-12-2017 23:54:37 Command: onno204, ::join
+26-dec-2017 12:02:18 -> 26-12-2017 00:02:18 Command: onno204, ::leave
+26-dec-2017 12:02:24 -> 26-12-2017 00:02:24 Command: onno204, ::join
+26-dec-2017 12:02:31 -> 26-12-2017 00:02:31 Command: onno204, ::continue
+26-dec-2017 12:03:13 -> 26-12-2017 00:03:13 Command: onno204, ::remoteupdate
+27-dec-2017 07:43:55 -> 27-12-2017 19:43:55 Command: onno204, ::join
+27-dec-2017 07:44:39 -> 27-12-2017 19:44:39 Command: onno204, ::leave
+27-dec-2017 07:44:48 -> 27-12-2017 19:44:48 Command: onno204, ::join
+27-dec-2017 07:45:24 -> 27-12-2017 19:45:24 Command: onno204, ::join
+27-dec-2017 07:45:24 -> 27-12-2017 19:45:24 Command: onno204, ::leave
+27-dec-2017 07:45:27 -> 27-12-2017 19:45:27 Command: onno204, ::join
+27-dec-2017 07:51:45 (//Commands_CommandExecuted)-> 27-12-2017 19:51:45 Command: onno204, ::join
+27-dec-2017 07:52:09 (//Commands_CommandExecuted)-> 27-12-2017 19:52:09 Command: onno204, ::remoteupdate
+27-dec-2017 07:53:11 (//Commands_CommandExecuted)-> 27-12-2017 19:53:11 Command: onno204, ::remoteupdate
+27-dec-2017 07:53:24 (//Commands_CommandExecuted)-> 27-12-2017 19:53:24 Command: onno204, ::join
+27-dec-2017 07:53:27 (//Commands_CommandExecuted)-> 27-12-2017 19:53:27 Command: onno204, ::leave
+27-dec-2017 07:53:29 (//Commands_CommandExecuted)-> 27-12-2017 19:53:29 Command: onno204, ::join
+27-dec-2017 07:53:34 (//Commands_CommandExecuted)-> 27-12-2017 19:53:34 Command: onno204, ::remoteupdate
+27-dec-2017 07:59:29 (//Commands_CommandExecuted)-> 27-12-2017 19:59:29 Command: onno204, ::leave
+27-dec-2017 07:59:31 (//Commands_CommandExecuted)-> 27-12-2017 19:59:31 Command: onno204, ::join
+27-dec-2017 07:59:32 (//Commands_CommandExecuted)-> 27-12-2017 19:59:32 Command: onno204, ::leave
+27-dec-2017 07:59:37 (//Commands_CommandExecuted)-> 27-12-2017 19:59:37 Command: onno204, ::join
+27-dec-2017 07:59:39 (//Commands_CommandExecuted)-> 27-12-2017 19:59:39 Command: onno204, ::remoteupdate
+27-dec-2017 08:02:08 (//Commands_CommandExecuted)-> 27-12-2017 20:02:08 Command: onno204, ::join
+27-dec-2017 08:02:14 (//Commands_CommandExecuted)-> 27-12-2017 20:02:14 Command: onno204, ::remoteupdate
+27-dec-2017 08:03:10 (//Commands_CommandExecuted)-> 27-12-2017 20:03:10 Command: onno204, ::join
+27-dec-2017 08:03:13 (//Commands_CommandExecuted)-> 27-12-2017 20:03:13 Command: onno204, ::remoteupdate
+27-dec-2017 08:03:25 (//Commands_CommandExecuted)-> 27-12-2017 20:03:25 Command: onno204, ::remoteupdate
+27-dec-2017 08:03:35 (//Commands_CommandExecuted)-> 27-12-2017 20:03:35 Command: onno204, ::remoteupdate
+27-dec-2017 08:03:44 (//Commands_CommandExecuted)-> 27-12-2017 20:03:44 Command: onno204, ::remoteupdate
+27-dec-2017 08:15:09 (//Commands_CommandExecuted)-> 27-12-2017 20:15:09 Command: onno204, ::join
+27-dec-2017 08:15:17 (//Commands_CommandExecuted)-> 27-12-2017 20:15:17 Command: onno204, ::remoteupdate
+27-dec-2017 08:16:08 (//Commands_CommandExecuted)-> 27-12-2017 20:16:08 Command: onno204, ::join
+27-dec-2017 08:16:10 (//Commands_CommandExecuted)-> 27-12-2017 20:16:10 Command: onno204, ::remoteupdate
+27-dec-2017 08:23:06 (//Commands_CommandExecuted)-> 27-12-2017 20:23:06 Command: onno204, ::join
+27-dec-2017 08:23:29 (//Commands_CommandExecuted)-> 27-12-2017 20:23:29 Command: onno204, ::join
+27-dec-2017 08:23:33 (//Commands_CommandExecuted)-> 27-12-2017 20:23:33 Command: onno204, ::leave
+27-dec-2017 08:23:36 (//Commands_CommandExecuted)-> 27-12-2017 20:23:36 Command: onno204, ::join
+27-dec-2017 08:23:41 (//Commands_CommandExecuted)-> 27-12-2017 20:23:41 Command: onno204, ::remoteupdate
+27-dec-2017 08:26:32 (//Commands_CommandExecuted)-> 27-12-2017 20:26:32 Command: onno204, ::itsoke
+27-dec-2017 08:26:35 (//Commands_CommandExecuted)-> 27-12-2017 20:26:35 Command: onno204, ::leave
+27-dec-2017 08:26:37 (//Commands_CommandExecuted)-> 27-12-2017 20:26:37 Command: onno204, ::join
+27-dec-2017 08:26:39 (//Commands_CommandExecuted)-> 27-12-2017 20:26:39 Command: onno204, ::play 373101876331413508
+27-dec-2017 08:27:11 (//Commands_CommandExecuted)-> 27-12-2017 20:27:11 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:29:35 (//Commands_CommandExecuted)-> 27-12-2017 20:29:35 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:30:58 (//Commands_CommandExecuted)-> 27-12-2017 20:30:58 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:31:31 (//Commands_CommandExecuted)-> 27-12-2017 20:31:31 Command: onno204, ::play https://www.youtube.com/watch?v=aLibWXsYqO0
+27-dec-2017 08:31:45 (//Commands_CommandExecuted)-> 27-12-2017 20:31:45 Command: onno204, ::leave
+27-dec-2017 08:31:50 (//Commands_CommandExecuted)-> 27-12-2017 20:31:50 Command: onno204, ::play https://www.youtube.com/watch?v=aLibWXsYqO0
+27-dec-2017 08:32:22 (//Commands_CommandExecuted)-> 27-12-2017 20:32:22 Command: onno204, ::skip
+27-dec-2017 08:32:34 (//Commands_CommandExecuted)-> 27-12-2017 20:32:34 Command: onno204, ::skip
+27-dec-2017 08:56:22 (//Commands_CommandExecuted)-> 27-12-2017 20:56:22 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:57:10 (//Commands_CommandExecuted)-> 27-12-2017 20:57:10 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 08:58:08 (//Commands_CommandExecuted)-> 27-12-2017 20:58:08 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:00:19 (//Commands_CommandExecuted)-> 27-12-2017 21:00:19 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:04:20 (//Commands_CommandExecuted)-> 27-12-2017 21:04:20 Command: onno204, ::play mediahandlerpro
+27-dec-2017 09:04:45 (//Commands_CommandExecuted)-> 27-12-2017 21:04:45 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:05:43 (//Commands_CommandExecuted)-> 27-12-2017 21:05:43 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 09:15:19 (//Commands_CommandExecuted)-> 27-12-2017 21:15:19 Command: onno204, ::play https://www.youtube.com/watch?v=GPATUFiWoTI
+27-dec-2017 10:18:19 (//Commands_CommandExecuted)-> 27-12-2017 22:18:19 Command: onno204, ::join
+27-dec-2017 10:18:21 (//Commands_CommandExecuted)-> 27-12-2017 22:18:21 Command: onno204, ::remoteupdate
+27-dec-2017 10:27:11 (//Commands_CommandExecuted)-> 27-12-2017 22:27:11 Command: onno204, ::join
+27-dec-2017 10:27:14 (//Commands_CommandExecuted)-> 27-12-2017 22:27:14 Command: onno204, ::remoteupdate
+27-dec-2017 10:27:45 (//Commands_CommandExecuted)-> 27-12-2017 22:27:45 Command: onno204, ::join
+27-dec-2017 10:27:45 (//Commands_CommandExecuted)-> 27-12-2017 22:27:45 Command: onno204, ::leave
+27-dec-2017 10:27:48 (//Commands_CommandExecuted)-> 27-12-2017 22:27:48 Command: onno204, ::join
+27-dec-2017 10:27:51 (//Commands_CommandExecuted)-> 27-12-2017 22:27:51 Command: onno204, ::remoteupdate
+27-dec-2017 10:42:37 (//Commands_CommandExecuted)-> 27-12-2017 22:42:37 Command: onno204, ::remoteupdate
+27-dec-2017 11:30:58 (//Commands_CommandExecuted)-> 27-12-2017 23:30:58 Command: onno204, ::remoteupdate
+27-dec-2017 11:32:00 (//Commands_CommandExecuted)-> 27-12-2017 23:32:00 Command: onno204, ::remoteupdate
+28-dec-2017 01:31:11 (//Commands_CommandExecuted)-> 28-12-2017 13:31:11 Command: onno204, ::join
+28-dec-2017 01:31:12 (//Commands_CommandExecuted)-> 28-12-2017 13:31:12 Command: onno204, ::leave
+=======
+>>>>>>> parent of 0992202... Now support for Custom Webinterface(Code not public YET)
